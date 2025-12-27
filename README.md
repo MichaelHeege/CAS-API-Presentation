@@ -10,7 +10,7 @@ No prior experience with Git or the command line is required.
 This project uses **Python** and **Jupyter Notebook**, which are easiest to install via **Anaconda**.
 
 1. Go to the Anaconda download page:  
-   👉 https://www.anaconda.com/download
+   https://www.anaconda.com/download
 
 2. Download the installer for your operating system (Windows or macOS).
 
@@ -46,7 +46,7 @@ Some parts of this project require a **Google Maps API key**.
 
 ### Step 1: Create a Google Cloud Project
 1. Go to:  
-   👉 https://console.cloud.google.com/
+   https://console.cloud.google.com/
 2. Sign in with your Google account.
 3. Create a **new project** (or select an existing one).
 
