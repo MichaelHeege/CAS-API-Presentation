@@ -50,9 +50,9 @@ Some parts of this project require a **Google Maps API key**.
 2. Sign in with your Google account.
 3. Create a **new project** (or select an existing one).
 
-### Step 2: Enable the Maps API
+### Step 2: Enable the Places API
 1. In the Google Cloud Console, go to **APIs & Services → Library**.
-2. Search for **Maps JavaScript API** (or other Maps APIs as instructed).
+2. Search for **Places API** (or Nearby Search API).
 3. Click **Enable**.
 
 ### Step 3: Create an API Key
