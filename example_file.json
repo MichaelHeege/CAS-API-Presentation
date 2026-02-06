@@ -1,0 +1,1100 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7555621,
+        "lng": -73.9224658
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7569783802915,
+          "lng": -73.9213070197085
+        },
+        "southwest": {
+          "lat": 40.7542804197085,
+          "lng": -73.9240049802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-943-7404",
+    "name": "Applebee's Grill + Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107013409457296046665\">Carlos Vega</a>"
+        ],
+        "photo_reference": "AZLasHrwXCaeVywkRpBf40i6-vVwsg27htIXMtUBgitzkITYW5ykVjyoFWII18TARtIMwu-CTcli-jjmmfKjaQr4UdmCASPOqADVQhYOgEaNx7eEEGANl-ojKXdCqFi72TCgyx-QWGer1Bclid3u1OCwI0iQE3F2Ift8uwtWh8HuR1Wb7Ir-QI7Rmh0IrMqcZQ1Ea9L-o1FvjKeW3Sjna_uQPJfxc2Hao35Gx3R4zMPecQ-ynZ-it92bl0UBPaKL0v-j3e_GLAMZiulp5zR-EOq2PTxxKBwyUY7hgHkK8tYleEZ2Fee1lZUm09WzPHu9PI84L481krs70JjgP9bd-Lq69wAdgMxJFeyD9zeNp367BKv3Ka7lCoEx4SQPO24Xqzg63Z91xwDdjTpZICifK7eHPPfqFSWX1Vqf1Bp2zdwDuZDNpThEzsNwn2i5s3vQy2-Y4VXFgScBY4maAcfUl3i97XztmRjPVUtmrQuBxLgIcwhxrBVZJeQPDwvCpkMmgACUEmnW1RTkvGkX3U-YeXrr7aAJttq_vJwwpCEZM1M-01MUlI8mB4FopcRzZtKx4hJVY8q1HyX5ImbQukR8acbHgH--tPE98KZB4S91yhUKONSgcy66XKjDkzd-g--aAwMR",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ8XWaOSVfwokR3LzQfMwbmGU",
+    "plus_code": {
+      "compound_code": "Q34H+62 Astoria, Queens, NY, USA",
+      "global_code": "87G8Q34H+62"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJ8XWaOSVfwokR3LzQfMwbmGU",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2322,
+    "vicinity": "38-01 35th Avenue, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7602103,
+        "lng": -73.9152773
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7616639802915,
+          "lng": -73.91387591970849
+        },
+        "southwest": {
+          "lat": 40.7589660197085,
+          "lng": -73.91657388029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "international_phone_number": "+1 718-313-0404",
+    "name": "Spyce Astoria",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+        ],
+        "photo_reference": "AZLasHrzUBRS3rs1x0_0YhkxdkvLDsw9gaWFHH-BZAs-joOkJ4dHHyEBBk6jKTBP5O1ZZMUnDpAea2xxSs20gjZBA4cWn3dfJsufU8SVwMo9yX57RHHCF2js81zl1eVKpsn4Ke8Z8wkol5FjBmC_6ArzWrUR_nj3Lx3kHMAh12K5Pc2nfiNks05taxxjm9hAp0tenkPTEGTQ6C0cqOpPGlGfXJW8XL4qU6XkWa7VQBuWl5CXJiUpOJZMwb1CXijEcGdB-4crFs7jn7IIbPQmPBEeg6u4-Qu4mOBOPNA0lpzkArXkb_EhCTLM4POv2dlgAiTW5Y4uQqyXAdRc0DOtFczIcR0JFKQGGFtZwP59mRGYg0SPainqZmTtgsBwgpTvU34Nhr38bWItuX_tQroRDXqJzMir618UIasp1zkzdwCqpfOJTSzMxCs_8bHMpdaKcul_vfi_M-ATj_WMU_tBJeKLOrz-8dXT6xLO4nA6qeJCQXnGB86hrD--Fmw0rzQ-2AhcsLraSoHNrXM_XkfIE7uCeWgCZqeKNwQpfWDLxeEi_R63CHhMOVDnBoyvIf1FlsIsgEqCrjqvLbEWXIcRRUXU6X6rlADbokBOW4SaJ5h-4rHpF9nOh61IdSeTVlCAsdyYuPLcdg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ_eRvfz5fwokRE0sUHVm_UGY",
+    "plus_code": {
+      "compound_code": "Q36M+3V Astoria, Queens, NY, USA",
+      "global_code": "87G8Q36M+3V"
+    },
+    "price_level": 3,
+    "rating": 3.1,
+    "reference": "ChIJ_eRvfz5fwokRE0sUHVm_UGY",
+    "scope": "GOOGLE",
+    "types": [
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 192,
+    "vicinity": "42-18 31st Avenue, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7744143,
+        "lng": -73.90873789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7758617802915,
+          "lng": -73.90729076970848
+        },
+        "southwest": {
+          "lat": 40.7731638197085,
+          "lng": -73.9099887302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-777-8830",
+    "name": "Tasty's Diner",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107821815236197059478\">sinan erel</a>"
+        ],
+        "photo_reference": "AZLasHr9vWkRpjbjkI4JWTUfAEE0fQxzSwUBNpqIhWkBTfb758neCFnrszmVsOmx0YOEqTnLrB_BhW7Ox94jmEdKBUVpbWJeqk4BMwAoBSORGjxqbd5zHDB3VZAYDHF0ukq2cl9uMXIFVmG-SEiWLKOMpbemdfQ7nG_Hz-XLCcz-NunteyTN1MKFUKMLPcqkYv32WU8rsXeL_yLPTcc-xxdpVGPNWAL7_er0zH3yO1-L-bVYNH4aiEO-qT7X2nwTt9acK4YsKPsSJ1cONBJea2OWpmdygZTE5MKZ-fGBpIctmfvqBWFRGPou5C7I7AiHVvA8wc6jM-2MFHaBylKQt4Vzo1yTep2iRWfi2bZn8EpYZKSznyDjygtSRR9f5FafG8UQ-urE9ztih8aLZM52rdqW35V7UtREFmuhhxtRTLQbc1uFHBxinwhSLnH3enFJLTU1DgrnsR2xfQyF36N-cU22oWZ-dpRqHFCP44Sw7BCsR6v1naeBvjZ7zo_Wb5kczxZXA0n0DgHHO6POdiM8l6WLwA29XiNem3I-8Kowd3mXZcAoOdZOkAqui4lB4PZIfcD_-S2Pvplr629LSPYxNZotuQLwlAp4P2wl2eFKeVol4oXVBdHGVXv7_ewKbJe5COdR",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJzwijNGZfwokRl6h8wS-1MuY",
+    "plus_code": {
+      "compound_code": "Q3FR+QG Astoria, Queens, NY, USA",
+      "global_code": "87G8Q3FR+QG"
+    },
+    "price_level": 1,
+    "rating": 4.1,
+    "reference": "ChIJzwijNGZfwokRl6h8wS-1MuY",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 580,
+    "vicinity": "35-12 Ditmars Boulevard, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.76240990000001,
+        "lng": -73.92598579999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7637057802915,
+          "lng": -73.9246835697085
+        },
+        "southwest": {
+          "lat": 40.7610078197085,
+          "lng": -73.92738153029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-545-4775",
+    "name": "Dino's Pizzeria",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2269,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108317732209692138854\">Dino&#39;s Pizzeria</a>"
+        ],
+        "photo_reference": "AZLasHqnJkvJco5Hy8hzG_0PyKOhIS_RcsmymuzWJBF_BR-TDGPsXiIS5wBIHoZvdpntAt6XGMkHUFMz0rGsonrKGz8WM1rrn2h7YkwToGu-YDeJZD6yOC64L6VlvCB5ib7jSbo28LcGjQPBtKVGidoBZU5gAaaz1fN_sylwudHuyrEuor8yiMcX0QbfVGT3CLN4hsj59cPUKc80UD2VTPIPjwkNkg2Pph47VO6_mCuUF6n0EWB_7JSeQN4pOFi8HHpIGuIPPZZhFeXiaP7KUx4Bhu48VVwyN9oCLr5luLtH8hGYmbEmYPiVmJcq5Jeh2rMoXTQIBxLQzvo",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJeWtbNzdfwokRQdWeC8tUJtI",
+    "plus_code": {
+      "compound_code": "Q36F+XJ Astoria, Queens, NY, USA",
+      "global_code": "87G8Q36F+XJ"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJeWtbNzdfwokRQdWeC8tUJtI",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 381,
+    "vicinity": "30-01 Broadway, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7608158,
+        "lng": -73.9156375
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7620981802915,
+          "lng": -73.9143432697085
+        },
+        "southwest": {
+          "lat": 40.7594002197085,
+          "lng": -73.9170412302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "international_phone_number": "+1 718-777-1355",
+    "name": "DiWine Natural Wine Bar & Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101977362649474157542\">DiWine Natural Wine Bar &amp; Restaurant</a>"
+        ],
+        "photo_reference": "AZLasHqVy8s618P9gYTZ2YLI00Fc_j7FKlvaFw_-mgR2FvuHjld2-24mMWLSs19l6SfewvxGhTvxte5qVpJFS3Dd0W5rcgxXIZB1DE2LXrThEQakrfur_jgfzA8w7NXBrtDKtdA_pep_FdOVTYXiCC1xVtmM4WNKxUDbs-14VjnUpujydOFgduEqwRpgKaydXSLogqLTaCe22eSJ0LNI-Mr8sHtm7WUn6dzJs0id_8CWOjGa03xrf4Nl6nO1yHcNOvxhmSU92vLEE2nJCQJ7Lrk4kAZoHJnXRxcoRiuk9K9NyG4ImhAQgGTO08uv3Sku-62RPvrBzs79PWU",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJB8q5hz5fwokRycD7DHYjj7Y",
+    "plus_code": {
+      "compound_code": "Q36M+8P Astoria, Queens, NY, USA",
+      "global_code": "87G8Q36M+8P"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJB8q5hz5fwokRycD7DHYjj7Y",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 564,
+    "vicinity": "41-15 31st Avenue, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7644274,
+        "lng": -73.91484919999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.76572548029151,
+          "lng": -73.9134022697085
+        },
+        "southwest": {
+          "lat": 40.76302751970851,
+          "lng": -73.9161002302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-278-1931",
+    "name": "Sampan",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100902619982961453181\">Garamon Kanegon (Spacegizmo)</a>"
+        ],
+        "photo_reference": "AZLasHqqnTKmrKGuZBvUJTeKKxXmA0Zl-71iZHdj1iPeQySX4mkHBEeX1NA1rg86eGy9k3MGmpzUYtRY3TzVjy9rpWhiucVLFTQOklJrociS6ZNlUILGBGwNB_wdBO9agfj9mnmGhaWHTfE8ynFXIm8Fqn_5g5JzTARGmgtO3sz5AhBNXB9psC6JjO4BN3RzO58ZQHeN6L10kAxjevqQ1D0zwy7aZnSRVBZnWkoyf30hI5JofqzR88gp7L7jKSFnAuIX1A8RcnyT2_8av4t2VWvDI7yKHmIe6qgZHSoZVQbHCuJLjxeHdz7f540jQIbB4VoeqNEFE7IvWsL56UUja6PU39CQ7akX2PTc5hrdC8l6tGxK9wrA2cHfSqn8rxO8m16JejDdHlB6ZX8BETg93BoYjLQA1m1nyC9sCeCiTzyw6s5HayaGgYBj8tOxDxC-RuMoEz6jgv7wA9OpkzYaay2usbVby7Xe44xkzTqewE-MMcVyq34t1KwHsq7K0bOwV-ZL7-9OngRRuRdLc8oxYpF2u4U1NqCENS0rCJvM7A_kNo72Y1n0a39sJS87_ZPKI6fKDlNk9cAj5wD9boCm1I0MFisRPrbWN9Dml6zPuFEL3p5Hj4fUk3HL4VsPtFLoEsIMHIokNfm6",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJPftdmj9fwokRAeY5lVdwWi8",
+    "plus_code": {
+      "compound_code": "Q37P+Q3 Astoria, Queens, NY, USA",
+      "global_code": "87G8Q37P+Q3"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJPftdmj9fwokRAeY5lVdwWi8",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 143,
+    "vicinity": "28-48 Steinway Street, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7743819,
+        "lng": -73.90794749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7761448302915,
+          "lng": -73.9072558
+        },
+        "southwest": {
+          "lat": 40.7734468697085,
+          "lng": -73.9100226
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-545-8666",
+    "name": "Taverna Kyclades Astoria",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117233193037250379613\">RG Mr News</a>"
+        ],
+        "photo_reference": "AZLasHrkY9MiG4v2V2gLGzSk9jnf68w7DRBlOZ2TzPJE5nuMnR43c8NqgxiEy-jduAWXAkbSke7E11lYw-j_VI6ETSidl01MLaMw015SPQmhW2pWiHDq1OJYCT9jeHVKdHjMCVi4qCnkxFdqqSMjczaU3xV50QEemHY6fynHO1Uuleod3Hvc_KPTgH8kPf9DzWsEaoWdUbhObIqyfYC6xl4KICG5N_xnaBZffURQ5Oi5CGtxeetQ9cFwpht5L0LDtYl6aGRClhLNo8W0gHYROReQTXqyGqLwRbY6v0vjNdnc0rGLTZg2KHkqcL_CBG2rG_2-j9f7plUxk6Tn1AKn-ALLXBXNhqtTRBbXzb05JgCAfLuZW2T-yBypLDG6_wYd4pjNqfyQiTIqPzeqAPwmG51ipkx4fb4BNX22ZGOqaRbAcVADFqMSXxE9WHSwziwUKjNG7jXBp6vIY2VG5aWAcEueYIeAO2YyD2suiP8nTVsfPAxNivWCSaFMrarH9GzR9YhGLSTJoGuNuYa7X42x5FVMOjbGXJsszhGHJGJQIo_BleLhO4DvmWendQ-_LCuokbSG-conW4HXaDWqOgaYa_2kaFzZ0-OlCLZSLDISeRG6G_8Ixvd3DM_ybqZKPvj59DKvJ8224Mwq0GyEAWiEmhAmHehCfrs",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ90pvtWdfwokRw86tuNLCG7g",
+    "plus_code": {
+      "compound_code": "Q3FR+QR Astoria, Queens, NY, USA",
+      "global_code": "87G8Q3FR+QR"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJ90pvtWdfwokRw86tuNLCG7g",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5065,
+    "vicinity": "36-01 Ditmars Boulevard, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.758773,
+        "lng": -73.91821
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.76007653029151,
+          "lng": -73.91694051970849
+        },
+        "southwest": {
+          "lat": 40.75737856970851,
+          "lng": -73.91963848029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 347-639-1435",
+    "name": "Pollos A La Brasa Mario",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107040728822773857686\">Pollos A La Brasa Mario</a>"
+        ],
+        "photo_reference": "AZLasHrxBHlhRt-lgx8zLFl7Dh6Y8yCnZ_OsHKuQ8-8UDSR2UarEZR5OHBbNWKLsTrjjo5VVfZ_fd6_tuoWBPx9OP6iufIP45h2fsaofyhkF1wo4fy9Hn-zjq2JFsQ5DodumYyCi5hfENK-N6qjaCCpFQfgtNImCH9WKh1jju-z_uEdurY7NLyZURLaErD-mTyEsRv8ElcWnmenw6kAsfvF-XnIAFvr2SXqe4-mPNC80tL3w94w5fIUvCJITSwxU9cVaUVvo0LigsSF-RfXCsZzGwZOCcYk_UfKi6UwbIBCVupqBKC1JW-yBGbpshLFfa5J44kh4ny43Ho0",
+        "width": 2731
+      }
+    ],
+    "place_id": "ChIJF8BDeDxfwokR82j-ZnANMWk",
+    "plus_code": {
+      "compound_code": "Q35J+GP Astoria, Queens, NY, USA",
+      "global_code": "87G8Q35J+GP"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJF8BDeDxfwokR82j-ZnANMWk",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1719,
+    "vicinity": "40-19 Broadway, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7622946,
+        "lng": -73.92554369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7635627302915,
+          "lng": -73.92428381970849
+        },
+        "southwest": {
+          "lat": 40.7608647697085,
+          "lng": -73.9269817802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-932-9569",
+    "name": "Sanfords",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102420211353029901857\">Sanfords</a>"
+        ],
+        "photo_reference": "AZLasHqpxehkLDgefqimXOcVZ3JtU-NQdlRggNrgPs58gy1ETG_GqCOYNviMkRDNUIO4UthVVrEptc7QU972SUNl8RHoYeWSSp0TbkTkw6_ja44JM39pnKErjsoSvXZYgA4XBHbqZ-dPCejAlvog4HcOaFCFBHDihbfjMPxeF9ittrojwN9_PM6aR4vx02O4hAIIn98jswgkK078SMYIkW8fzcORthQAeiOJuSjdmL3Sz3cmu-fuUQfQXlCcjnYEA1Rf7WsxhkY0HP60oynqEKOd7_LzKaKtLZpy8wu-yz2TK41ZuN3dx3ZXBmKx_RR60hhjEvFBzteh7bk",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJK6yDNjdfwokR_I3wR_rkS8s",
+    "plus_code": {
+      "compound_code": "Q36F+WQ Astoria, Queens, NY, USA",
+      "global_code": "87G8Q36F+WQ"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJK6yDNjdfwokR_I3wR_rkS8s",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2514,
+    "vicinity": "30-13 Broadway, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.753016,
+        "lng": -73.9144402
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7543810302915,
+          "lng": -73.9130862197085
+        },
+        "southwest": {
+          "lat": 40.7516830697085,
+          "lng": -73.91578418029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+1 718-728-3600",
+    "name": "Chuck E. Cheese",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1192,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115323735462497785514\">Chuck E. Cheese</a>"
+        ],
+        "photo_reference": "AZLasHrwIhZPRlRmKa1rbj1RKUGja_CsElE6GM-jtKH2r7VvFVrpGB1YS6VMekbwlYrrQcu9yJrgDvHgPYyUKysr-5oSnjFORYrgzIgRLIXFAVRouJw_S_s-LT_T7IvIwnXntsKadwEnf9XPHi3iyTaN-g5G4waWMF83UH8vplCYVMsdSFP6ifi3pGBW95dvlusU5hfD8tJL4Jt0ViVwKSh_YuqK5Jttv1vERfubucT77Mdrw4GsRn52MpgnQOMQZX_9cAOK4PovFPyJx9qbrwb8-a1rWq4IikrmPBadetyvx1IXU3ZzINklFXEXU2Hk6D6ThWH8pG-2JoU",
+        "width": 2119
+      }
+    ],
+    "place_id": "ChIJ1xPvXiJfwokR-LMPSjExjyg",
+    "plus_code": {
+      "compound_code": "Q33P+66 Long Island City, Queens, NY, USA",
+      "global_code": "87G8Q33P+66"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJ1xPvXiJfwokR-LMPSjExjyg",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1637,
+    "vicinity": "34-19 48th Street, Long Island City"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7578413,
+        "lng": -73.91627919999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7591364302915,
+          "lng": -73.91496771970849
+        },
+        "southwest": {
+          "lat": 40.7564384697085,
+          "lng": -73.91766568029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-545-4440",
+    "name": "Bagels & Brew",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106257879308263660701\">Rosey Rodriguez</a>"
+        ],
+        "photo_reference": "AZLasHrcLNGFf5dUH88XDb3aIj5zD9SLjRVMd5Wfdm-tx6B4qGIAZ2G3QeAgCyoopBKNz0GQiytgE8NW5hruyjA3OCCLdTtY9KgNID1DmlxM6dWUJZLEU4nQEdwSVC_5HmVOR3q64XMxH6VVt0cHllmQmbFuYMniRF90rOxOtoUggj3A46EWcCOaR6kz8ZGqWl19kDzuA2eUMp_xqz0s7VRm6PLVG95WgDblwNdgWRY-DkuJ4nFs8FEfAETdhSSBZaE6bgX3fteMWpTExct6P4H3rDglVNvKVlzS5ExCq69b14O5MPD-3sipOGOGUQ3SD2Xir0JlaBUu5Kfl2PftECaz95v-u5OD4FJqo4U6VRS7vpa6vkWc-ipSnLELGZLif-2N11KO0JIg5WxROUTqhDADzaCbGDDeEA33Q2qgI1Z7CmpNXbg0Mv5Fybv6RE8FAvIDuKVoejOGwLnzjhQCyB_74hZutfdwCJmcrn6FQhBOjkmMiwJYJuk2IyHSUxEX9-YYcxuyEf6SDlUt-QxpTlGliu4T5r1tROQhMSR3m7_I-ZZhHc9aAD2CdT5Ipn97bcowG772x7RyIgVVAL6H54QSyjDr07BhQFZ78L7SEzyWgtgVSZDMzfuoLsVrbkGLl3rVklP4LC3s4eE17DKP1TwYQg3CKLg",
+        "width": 5712
+      }
+    ],
+    "place_id": "ChIJY4a69zxfwokRMcLoRlzUNRE",
+    "plus_code": {
+      "compound_code": "Q35M+4F Astoria, Queens, NY, USA",
+      "global_code": "87G8Q35M+4F"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJY4a69zxfwokRMcLoRlzUNRE",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "meal_delivery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 297,
+    "vicinity": "43-05 Broadway, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.77608120000001,
+        "lng": -73.9148041
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.77732283029151,
+          "lng": -73.91354696970849
+        },
+        "southwest": {
+          "lat": 40.77462486970851,
+          "lng": -73.9162449302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-606-2323",
+    "name": "Sandro's Latin Food Restaurant",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113024473706890775281\">Scott Both</a>"
+        ],
+        "photo_reference": "AZLasHoPCiEuTPO-vqz50489KGju3-EpQXJEmvzPKxgGhV-M7b-118pgpwLHmUvu7dXju8LgCi2tozgPcMXfDCuJDXIGLrI3W6joYOVC6iyMni-tgflly6qctFwEgFTScSOZb6xHltPdPhZ0joc8GM3RWBci5DN9eDlAtByaskucZnbWuUNu43WD7GwFvfxMFQzClm31kStcii7xgvqDPXmv9k7lkInPsKWyuJjNUNXXowVVdLWU7nRZYMc_iZ7p9frQ6xu6s5xgmIV-dw8rB2nZGqGetu_SodZXfTwYRBUlSRauXaNSUb4vLvqOWjp51Nx5HvdUJJdFUhAdQB5JWnLYbDM2Fjc4wts0kYEiFyzb4ndKgsaqX5jRzj23IccjGNlAW6jWxqnM7INIUAr8yJWuHpzV3UDSkReFOX4wBTcz6cBm5Dry7CGQ_nd44B76f9abZTXkUdfvxKPLwfgwfzlIGeI4voabHJKkcuI-qLtX8abngR5p4ibRWIKOwQfBD7GHWtqm6DaxGNbEnoH1kh2CPnOR5Q073XLQep10YDt04QUSemUZYDkXk9AU7jp5u6v-FZSSV9FN3S74LKpTfdF6_MuPROJu9m2q2W2wC9xc131ArPqQLydb5dMN7eQUpwKtL6ILSA",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJ6RXvI11fwokR1aQIIchuA6M",
+    "plus_code": {
+      "compound_code": "Q3GP+C3 Astoria, Queens, NY, USA",
+      "global_code": "87G8Q3GP+C3"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJ6RXvI11fwokR1aQIIchuA6M",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 215,
+    "vicinity": "27-03 23rd Avenue, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7675192,
+        "lng": -73.89930939999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7688570802915,
+          "lng": -73.89791341970849
+        },
+        "southwest": {
+          "lat": 40.7661591197085,
+          "lng": -73.9006113802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-204-7070",
+    "name": "Jackson Hole",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1946,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118344795191250617684\">Jackson Hole</a>"
+        ],
+        "photo_reference": "AZLasHp3HsYDaOz5bcicnSuwImRZP3-TG3xRZV16z54d-LZYA926Jr0my-VZSaMl4BPBreJWSnpstWSiF_q0RFx-lRcwo1igl9O_6rbEcIu0MclLUisGsREVv4Bm1OZBdXdvzdN12wu_us6SuYyXy4LB7htDQ0rFViZS5vu-rvZ9h7IGKNTYE-Y5Wt8HqMM8mQ2Hh3NKSgH2jUGGs-dNHwFLVEc_ARMW9-DzyC_LDdTm9KqVSKJ5s3SIWDvWItu22gxGcE0MToDRvCoqMcA8SNdWKEuZowQ_nHovGV2CDiAWCqgaLeUPfP5Q71idYdEd_aW97ytCd2IzEDI",
+        "width": 3457
+      }
+    ],
+    "place_id": "ChIJPx2YHHJfwokRI4X9I7mD-Zw",
+    "plus_code": {
+      "compound_code": "Q492+27 East Elmhurst, Queens, NY, USA",
+      "global_code": "87G8Q492+27"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJPx2YHHJfwokRI4X9I7mD-Zw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4565,
+    "vicinity": "69-35 Astoria Boulevard North, East Elmhurst"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.76544090000001,
+        "lng": -73.91912099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7667928302915,
+          "lng": -73.91783441970848
+        },
+        "southwest": {
+          "lat": 40.7640948697085,
+          "lng": -73.92053238029149
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "international_phone_number": "+1 718-777-2570",
+    "name": "Sweet Afton",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2333,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100498523074496989961\">Sweet Afton</a>"
+        ],
+        "photo_reference": "AZLasHo-v684szgwmaqThlri_rLM200f2wYGTd_K01BfqytuIymamkNrqI-cDUPbDfYYxaEPxAlmd51211YeRUDrLOCOtZr3l2KxF6M9xEvzbcWNf2-ohxA_JmkdkJMNFwD7SLZGPYVhtC7vcXpTqnq2zLZEeGRn1B83Z57VSQVHlyuYEbWdVuC8gEVR2YboOVi5QhFkhHU_N0sydc1VOSUuJ8MHR7febR5yNl879BJXk65t7lpuhatUA9LkzzcY_MC65G4n3TVsFbEbmFEVQyFWF3f2IFB2wkxcoA3PuTBHAEYUc6N9kgDnUh6NYoq2G01okRGmBOAu2uY",
+        "width": 3500
+      }
+    ],
+    "place_id": "ChIJWx0TrzhfwokRjlhD_Yop39c",
+    "plus_code": {
+      "compound_code": "Q38J+59 Astoria, Queens, NY, USA",
+      "global_code": "87G8Q38J+59"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJWx0TrzhfwokRjlhD_Yop39c",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1426,
+    "vicinity": "30-09 34th Street, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7631367,
+        "lng": -73.9154227
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7645185802915,
+          "lng": -73.91414441970849
+        },
+        "southwest": {
+          "lat": 40.7618206197085,
+          "lng": -73.91684238029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 646-525-8450",
+    "name": "Restaurant Near me Eat \u2022 Drink \u2022 Vibe",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6293,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101072114979172702080\">Restaurant Near me Eat \u2022 Drink \u2022 Vibe</a>"
+        ],
+        "photo_reference": "AZLasHo5yI2qtDIXX_4J71E68MVaqK0YYQc4R8EQxSh1C3ht_MCZB6NACVF1zF5x1ifP-Gmmpx8OShyqwhHOG4gYHMNx6hqdO8sTmdmUqj28WBZtAu4gRi4ji9YwTw68MMTg0ZmXKMJ5CmKeLP-GvbPIWAmS3-QJ6ug4zX-mXR0ab5JNse16fqzDsm0roHs9fiLoDuOBZX4L1mxlsWwr1npv4z6oG6yxN5wOyC1yPcDBFHCUjp4aI0-oOcVtSUeiECoWIVsKdkKYp8DfCc6B7Cnmp5ODqDq_E6KL77Lm8JchK3-BEMAt9CblWpgRQ8gMVMqcFixd0oaiHeo",
+        "width": 8391
+      }
+    ],
+    "place_id": "ChIJRbCNBTpfwokR2y1PpS6KyZE",
+    "plus_code": {
+      "compound_code": "Q37M+7R Astoria, Queens, NY, USA",
+      "global_code": "87G8Q37M+7R"
+    },
+    "rating": 5,
+    "reference": "ChIJRbCNBTpfwokR2y1PpS6KyZE",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "30-27 Steinway Street, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7615934,
+        "lng": -73.9241967
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7628778802915,
+          "lng": -73.92289156970848
+        },
+        "southwest": {
+          "lat": 40.7601799197085,
+          "lng": -73.9255895302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-777-0997",
+    "name": "Toast & Roast Bagels and Coffee",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113406967514678794880\">Clau Dia</a>"
+        ],
+        "photo_reference": "AZLasHp3gT2ELC0feMA0MlTDpD5i_CAbTjBB4nQHjQA0bzc47knRokXZLtLzwv697lfvU66oEuVqh5VNNzYHgw2LT_EQnd0NAFIy6qRi31LwXBWXXQLC2VQIgiJSZuNUj3qcWnR3R1mnljxKkfwZSSPd5hJSxN3LEKmDWVYrCeuMgaQ3ZpDaBr4qBI-ovejjpwDHnSZRU50DFXnYueBR3ecB5W9AGBccINPpTn0b86KpZ3rdUtNqUrfPpqSmDp9ngfSAuIY3rBbhM-q_Wkrl3j3SqfriGYhoNU7vcoeuaGUAftolt26JLQaYpJABZM4vqs1ZL-OFvZkWOHhuzbpSFH1KTS9zw_Pgm-Ye3dedMKZzZDsWq6T-oLOPD3_ow29l0d2g5Ewe8AXRugTaeK3GA7Q8HOVgltkxAEOy0lI5rpwqvtCT4pKVhfvRSnUXCLekvU2mZQftYMPUvzEje6DskkV5-BcZuAtMGDPD9GX56_bZcyvVktisFu59aC0RAhqqScrKi0ZEIP0QkIU5L13oGh3sNK4FQIMhkidFs-R_pJlDLUQg6ZjlBqBu5HOr9BRp0IDj_6JaeJBt8MS0bD9KH2M9px7nhaL6n2jvrzrB7MPbv9coXGAAia9hLZKdZk9aCQGGbedqcA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJXWy__zlfwokRCsBLHuhJ554",
+    "plus_code": {
+      "compound_code": "Q36G+J8 Astoria, Queens, NY, USA",
+      "global_code": "87G8Q36G+J8"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJXWy__zlfwokRCsBLHuhJ554",
+    "scope": "GOOGLE",
+    "types": [
+      "bakery",
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 450,
+    "vicinity": "3207 Broadway, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7696576,
+        "lng": -73.92776669999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.77105203029149,
+          "lng": -73.92650211970849
+        },
+        "southwest": {
+          "lat": 40.7683540697085,
+          "lng": -73.9292000802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-545-5550",
+    "name": "Vesta Trattoria & Wine Bar",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110830709759669841846\">James Jakubowski</a>"
+        ],
+        "photo_reference": "AZLasHrJBqFyein6xOLtbVvEhg_F9jBjr8DauZSlUbQ6Moqm_0chJprOBvNo0QgLSOGr5Trwwb-5IcdU_XrHGPXEBp8jigrfOqf7SIpmn4xRlg835g0Bwkux11PBLtBog3g7z0vVBB06DHgDIqegO2MoOz8G8pfSxjzsuVVd_vDPwwf0SILmYwwglo30bWZQyHWBU5xLkKl2pAfqyRa1rE5Mu_0cwRYEgnuH4shq4oarGCV89XSF3ZSlbFB-taAjjSsQM0tstwXbgq9kZovX0gN1MgQRN_29H0yFMI01elITphA_WF7ok9ADUaIksmxQD0izYybWGtNzuLpsS4qv3UtzvmPBnhnhTI18JT8lIhJLBvYHTLdBVaH1Md0scD4I6MvbUGx8rTrsaCXFzInqIHoCUfFpMca3A1UA9vabEpPxgQvAbAAXnDVWEaFKKeAPu4l4RpxElfIopJdskKlwONM1TiHnVfdl_QNEA4GFJAFEDfZncoBp5cE7K2ZmliigNUBemcGYAygZFvct4Lxq0OLFRH0WyQMtWwt1ohbzyKfIZaXsLX3ulB-h6qG1a5jZxgK7EHl41IgguzpR7AFjnRqqAChaluy97vS2xsdiN7z7Wprzk2d-gSA2d5eY9z4Nlf8c9uVXCVT9",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJGc-LBklfwokR4pON1Ije2Ls",
+    "plus_code": {
+      "compound_code": "Q39C+VV Astoria, Queens, NY, USA",
+      "global_code": "87G8Q39C+VV"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJGc-LBklfwokR4pON1Ije2Ls",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 626,
+    "vicinity": "21-02 30th Avenue, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.762941,
+        "lng": -73.9208586
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7643420802915,
+          "lng": -73.9194542697085
+        },
+        "southwest": {
+          "lat": 40.76164411970851,
+          "lng": -73.9221522302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-626-0087",
+    "name": "Il Bambino",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114125059648511830046\">Tom Moncho</a>"
+        ],
+        "photo_reference": "AZLasHoTLnfefqX7R9AD_kRvJLKkjOBswBUpo4IgboxeVVv3sR25gjkMObySCDDGvcSdCjrgBDMG1S-tNm5tLMXttlmQTZMVgpKXh-LHTd7pU9psUQsXU2h3UvbRlRfdjGy-cUlC0N2LyerU9dfpEFvnRuQ1TpjHHLu4Xyw7k7n0zBvLzpN3VL9F4pz7Ek5Bma2EBcfc55h5e3N8WwAZDyz9lUIQxwwATQ2NxUaCf1CNES_MLM_9oIvk6_a6TDey4RFinSOc6_sGLk0NjvqbgWlWtrF5zjKuBwv6TWY_LHZ4KuVhyuvWbha1IoMIT9ogOADJCbmLzv1kHIHtP0yR9vaNkEkdu9VTvKiyM8RXF88zxoxm5qKf7SIMUE5YMO2pZHc2nhao-apdwI58fY2ToD-F6_qqzn7AtdrLxW0ZRfXHJ-J2vTM9bmQTUttYtM8uX_u75qih8oaRMNpGamKG7x-UrGJochCoBbfersE0_Qw_b-EkLijQilUSO1zJqdLPUmyWWVD4xjn9Z0MXzmttUEouPLICT7UjcC1qeBv5VvxN8BwmTJ7F64VHCEOG1CnragqUosn_659KWsGRMH7vj7V2-kAi3zhu_-2E86nJHJAav5xXgFGoypN4srE5iw4PFj86UoxrTQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJy8vyBTlfwokRiBQBaJbvTVE",
+    "plus_code": {
+      "compound_code": "Q37H+5M Astoria, Queens, NY, USA",
+      "global_code": "87G8Q37H+5M"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJy8vyBTlfwokRiBQBaJbvTVE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 662,
+    "vicinity": "34-08 31st Avenue, Astoria"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 40.7617379,
+        "lng": -73.925847
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7630403802915,
+          "lng": -73.92440556970851
+        },
+        "southwest": {
+          "lat": 40.7603424197085,
+          "lng": -73.92710353029152
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-545-8888",
+    "name": "Broadway China Station",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3161,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106740845827278873381\">Steve</a>"
+        ],
+        "photo_reference": "AZLasHr-o8gL_rVna8Fj5N6m92FOzPk_nUPDyqY2ngFXV4V-j_Tte3sVfxt5m8f7goLJlt25vPLoMfCUvskL0yRZ6l6g9GBtwCln-v5Vlg_eA6s0DRybgXYc0GsguaXHM016a54VXRze4pLlVWgYez2rIs0SMX_rTncSPisnKXcnRl4Z8Tkk6yN4Xi4GusN3Nh8zUuEe8c9MmD_0fQ8wIx06J3fRQJ6NGEWFx8kaorNXQuTsP1EW41Ua2S1Ma8WEE8jFUe3IcllmymFLSh6i2tHuoiLDf6TeNsmCwZhSHGH6C89WjENQf9M36mma0oKbIJS3-FyRtzqw8Suk3OWb2jIpqeRRbThGfLQy9Q5JBkJXrXBiEZ_WKTSP-9PH1QWmmQw50U4eiw7uaTrPXCN5OAfTvVUHh4YbvuhxpHUNBmUZl7GTXE2R_At6kkI7AAq195VyUwutp22MRinpADuuJ_kLHBjUXByfFbMYeZbwYlYZm6CCnvhxsr3EhwLRLuyg7NBSFj7Hd1ZZTTnVxPRO_YShppHXsMybkGdLgAIaFf0freYStdAmXHsFiCNhfTGk6Q7tMi-LIqYNtTuE66-kg3qJctVynBt--UetVWcdn-q9EjTRxWovc1yhPNwclZc4XcD7",
+        "width": 2371
+      }
+    ],
+    "place_id": "ChIJ_acaSDdfwokRdcr5G78vjqI",
+    "plus_code": {
+      "compound_code": "Q36F+MM Astoria, Queens, NY, USA",
+      "global_code": "87G8Q36F+MM"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJ_acaSDdfwokRdcr5G78vjqI",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 129,
+    "vicinity": "32-12 31st Street, Astoria"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 40.7685467,
+        "lng": -73.9109632
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7699252302915,
+          "lng": -73.90972021970849
+        },
+        "southwest": {
+          "lat": 40.76722726970851,
+          "lng": -73.9124181802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 718-728-1492",
+    "name": "Layali Dubai",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114954528993234173718\">hafid man</a>"
+        ],
+        "photo_reference": "AZLasHr--rnnJkhngE-pOBJ3cML4m5l0SXwZsQLMAZNpQuZ1bUC87gIwthqsR5UxBo4KESEd_I6d9rxQuq6qtL8Jqs3YBvjXV2pdeO3z6N0CX4G7AP09xiykTjlykm2jWz1WNxNm1publyU1RGchtnlDzHcu2K_zolextVo-kHne2ULC4pCe29e6PGNneHnMiaFGDFYio0lOhYHLC5-lZB22l26pOxo9OCUdFNqaCXzeoB4cXcYh8-_pssySAS2OpXHtdLh56CaWFV6LDqEd3uo6SiC2ujA2E10jmiwPl31mGZeL5Ug9HW_tND83I_TRrRXE8XthfVd_WOxBArQKspj8w2RlM7t0KRwE16yBpAXWk8GolI5yQ5Ji9zZ6-xmJqYbtLu9ye9qaxSpAH4RxnkqoWcVla60R0pOMQmQMkOjcFVKXCa2kGu415Zan8GCv-N2TDEHevn1evw0biPbI9n5fdXI9gub7mBgrgI02s_J2SEQ7754quu3klz1MNpSAfmuBwmsgvXjeaZR2Y0T53DNenP3BQQoQ6-Rf9YR9Vg5uNBsuT8uqtYxJyLgmkJnAYI15MXHdQaQkzlgf-I-muW7oEiJAPb_zVB6AXgq52VvMNoaB_jCkafaxJzU6N7Yltq_AgtRhVw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ3VuwFGpfwokROfrKHG0LZbs",
+    "plus_code": {
+      "compound_code": "Q39Q+CJ Astoria, Queens, NY, USA",
+      "global_code": "87G8Q39Q+CJ"
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJ3VuwFGpfwokROfrKHG0LZbs",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 590,
+    "vicinity": "40-02 Astoria Boulevard South, Astoria"
+  }
+]
