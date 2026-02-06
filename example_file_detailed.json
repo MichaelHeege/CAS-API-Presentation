@@ -1,0 +1,1598 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "43-19 Broadway, Astoria, NY 11103, USA",
+    "geometry": {
+      "location": {
+        "lat": 40.7576949,
+        "lng": -73.9158077
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7589640302915,
+          "lng": -73.91452191970849
+        },
+        "southwest": {
+          "lat": 40.75626606970851,
+          "lng": -73.9172198802915
+        }
+      }
+    },
+    "international_phone_number": "+1 718-274-9000",
+    "name": "Gino\u2019s Pizzeria and Restaurant",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+        "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1836,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107224814854289512136\">Gino\u2019s Pizzeria and Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN0DUj-F7_KRf_e9DuOo7gNwupRi-fZiO5-dvIXoL9AnKVlFyv6LTohpmnNVnOLinHUqZrrTwJDCxWEcCLKL2r5-EEF4LZrX8BaR7Bk2hw2qPcUXjpw2BMDferWuPMHIRy-BsjRk7bfFVIC9KCVam_aWguIxJpIOlvZ0B349c9OPfzTwira5lfEV8E3X4TOxThxlox-TgC3djg_La1ryvDxJguc6Ff00Q6nnGc0w-zgw87-lyBxpQgC1N7qLxOeIug1NupdK5L2Jw2mVE4jI_WrulmH1EYkQfSZjqbw0jUfNQg",
+        "width": 3264
+      },
+      {
+        "height": 2269,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107224814854289512136\">Gino\u2019s Pizzeria and Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN3hR65lqJlw-fZco7FnjBGZ8By0qSe36QqOEoSZgAgUudKk39Dcf-2O5LDYk_67nzJrc47e95zVD44FLx5OTsHLiXeZYUG0hkaL1X9Dw4kgyUfDFCSjgNmyWRpP5zAGelUabWLIki8rJsnbTZ2h_1wWBdQWuGVtZ_MRH9zSbG3NrO393LjGi23w495F4DqGl3eMWeKvCiuOJxHqM9GEdHnGHoRVxMauL-ru9Tsb_s6caoIHrPLv1TIfqYf8gMqlh5LghJ-meSUcz2oLI6MWiGB__qVukTmoTmhkYmBZ1Vgjwg",
+        "width": 4032
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107224814854289512136\">Gino\u2019s Pizzeria and Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN1lSlxwvJU8VzaWOE6pn2vW6yRWve62HGf6UkILJbUlwchM3lSlRPtlC3wOpVrVMdDI5vON48RkfLP7fqspIYqVQaxeDjPTK8FvC0R8PtOQMcbGpk1oyBLy3y5KsTWbbVqoZgSpQrUs5gbuxliV6VhNdxrxAFUeBue5xKwe7BJl19k1v9gEfk_Gc63PB6tcZSFa7RDPsgDgraJFXn_Gr4VNo-M3XkWKGgSir4-4LmMztYe5MjuAICtT48K51LOvZQ07ns7TcoYTbxoTqJ5yY-_z6n5A-34uHG0wnMjAHYcwFQ",
+        "width": 2560
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107224814854289512136\">Gino\u2019s Pizzeria and Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN3NVCm9fqFXGMpPLlrsc6RkC0cxKOMbcKsxsJKkWtbz7QBnlADgI1betuBgH8bmmYIj_1zXwE39S-OHvwwLgff2w9yObmOdl09O5P_PjXa9IOwXBscpRUiIBh5iLyiQrzuF2NsRaUPbT7wJw4TSAzzSUu_kMy27xMaJJ8mRim3Eg4-gzSwPL_C7khLq4424JxzVdrWd7F2iT3bDGhzKBzvyth4Gmvk9fDGYbBYXvTp5pFjB6tskCFvCHkvKaRrMsZBLVkKqXFZm6z9_Eo1PtU1M9iOgBpfTVzWp8Rdq2hmSAw",
+        "width": 3024
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107228497609029208464\">James Asher</a>"
+        ],
+        "photo_reference": "AcnlKN3_caOvokpAnR-mlId1TPpj50poDE5laDbzhD3UlRyf2SOE4Urd3RXUEVwPqqvxeOYJwS0tIF6ziq6d0WsLrqhBcBdPncHhxG7Sl4jgPrAH3BLTr8rqoCAgAAyDbwZ3quFDe_BzMHvDaQXV3Yb1URj1GlELsLYtJRiAmlPl6fIzW_M48BCAAhwZ1ccoDYr3Sv5OstOuuQYjMUQFs785n1md4_X1Uf8pfeSZbBOP49SMXhRvmCOBSUc8eVGvEdMaUA6vRL4BE5xf1rRJ_EsfN8F2YbAGmE61m-6kgWL7XsmrtYIhJsqvgjEO4c7PovjivQ46CZ_Zml_Q_S19z1RX3npd790345YQB5by__EEWul81ke5U6ncRPYg-ux3r4-LQ09sGbEH2j6MI1H4aiwCCv5M0MMqChGOhYpn_TOPrkqY25j9ljIjDho5uWXBJLFy",
+        "width": 4000
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107224814854289512136\">Gino\u2019s Pizzeria and Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN1E2R_1TAA0uUe4-j-HlpxGMqnyv9V089NGThhrhklWs1wxpzuRvsEvujZGXUjVrabE_QNBvGqzNz1MlaHOQcOdwc9PhfzbJAEs3vGxZuBFVOfiNWKHfnEgkfqrzwxfYM48Wjt-6uDom_8u5iiOa_lQKhDhY3qW_Jq8Nifp7tQEdn9nmCdU6FSyFpPufC-JeMIQvtLArT-vVV3vA3muU_y4XtLUHgfw6vVC4-hVJ7Etll6oXbH6gIogULUPyNIw5LSmHDNS9-WbreEqr9HEio_-X1uVxQymaZlOOGZyaOGh0w",
+        "width": 2560
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107228497609029208464\">James Asher</a>"
+        ],
+        "photo_reference": "AcnlKN1TXFhMHXDdHqhNZBks5BoivnC5XmUSPwZCqZggFP63_8ZZ8dYkkb-ubWkw9XdtV-Pzl5SKYcP52zkSqWron9Dqq0BOKAet62qv9Y1irhLNN_fktX4DnnBe-zehaFcKZ53njHeOuSgJg_QxiDx5Aie4anPQh67-wsm1n4Rdn3RJrou499P8ROQmJSx1vW8Yyvo7Cdj8o0yKr9tWvFR5NFQH9ZuXxkpovh1GyfxeS9SCmsHcPV5G2dK1fAc2_qdjIT3c-KPV985t9olHDlPOxvf_C63SMhA8Ahn4hJvXfo-xR857jFEGF0XSFxB2uwD8SVRYxGB7d7rYFdU0LN7zMrMj7aBPvWFJXtKxD6o9pJ9w5OQW0pWFzYGgk5A3hWvna0B51jL3VMns0tf7q8_C-VlkB-azI5K95qV_1vSb6KkCAkaakXTRjO8z_MUJkUpq",
+        "width": 4000
+      },
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107224814854289512136\">Gino\u2019s Pizzeria and Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN0LFWVhZQ0HXGYqZzW5OEVD6TuT2eska7_9kWVyEQjRAKD0ZHbgQRpdX1hbktzGx7XlZHCis73OrW9UCAy5jyG-lJE_9gPldIHK7_qFXZ1L0CXwxHd246peUfYKDUTGy76SJNnKwNz3eehzEOjjeYwSEVeLdQds45gh2nrxxJPyU1D97DAkxrvsUJ3XK1k3rQvj_oYB2Vu9K3Y9NFOrNJIchNdxg3tm3EBv2p3sqX4J8lNuUTaGWan5diIzdze-tzuBllZFLxhzA1gi6mDlr8-ML-vc_JtmD7tK_EXx1_ACqg",
+        "width": 1085
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107224814854289512136\">Gino\u2019s Pizzeria and Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN3TEBWYVN9pcpIGyT--zCep1AqNFi3Q0r9aCZpqfNX-JZAok-RHpV9pkTVkdHhIPkEL9I7CdAM7F9fbfC0i6VCpLV8LaZ5MlQAKLNa2ZwHUrAmFuHXEPI3UMjpI9z_i6Jokyg_1lYEKLh7EaouZlxxeVkJ9asrAPHBrQJPf9B7J3j_KVQCO_9QTEtCsTCdZWTg0s6m1dEWcZeGeEN0CSy1H8vrVBNcTWgQh_4TkTvf-4SaYmKzSHs09uJvq1TM2ZcLMFupJhUW0dVLC_NbFpJKk97be4Hx72regOhbx1JAdXg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107224814854289512136\">Gino\u2019s Pizzeria and Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN0TLzOjqZUcU3QB9BpzAGZk-3fnoUeBkhAcs--9ykRWqShdVl0hhpO8I4a2vqcW74uEFXtbgaJbLa0tmf2Sol2S3pEJtRdn24abAuR5GO9eUcW5UsaATy2tUXJ118HoI-h1C573HxO8XK-Hxa8gFk0ZS_Q80QNX_jZc-QzCpqks5Ixq1r4dqhVWuiVx0bLLr8WP1VcAZ0qY-WlS2ilIGMzlXv9OAFpMgtmd4XZHJlG1rP_r6epg8PeapuG3YgGskxx-8b9g7IaT6tMg2As-0XUXc2tzFPv6v8UTmsJNL8t6sg",
+        "width": 4032
+      }
+    ],
+    "plus_code": {
+      "compound_code": "Q35M+3M Astoria, Queens, NY, USA",
+      "global_code": "87G8Q35M+3M"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Jon Baldwin",
+        "author_url": "https://www.google.com/maps/contrib/100758581453152874449/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaGeeiZkBKdd6N_65aUV3f5HGktcwotkwEbvJh4nF32-owNg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 months ago",
+        "text": "I enjoyed the pizza, the sauce was pretty good and cheesy. Would definitely recommend for a quick bite",
+        "time": 1763842926,
+        "translated": false
+      },
+      {
+        "author_name": "Sarah Geniale",
+        "author_url": "https://www.google.com/maps/contrib/104193495300919524168/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCxTA0ZxSAg4v2DvP-4XWMnsTtWr_epD-7a5ut6IMqY_8e7G0=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Chicken parm hero, Calzone and pepperoni pizza were absolutely delicious. Ordered pasta dishes tasted like fine Italian dinning. Highly recommended",
+        "time": 1768854302,
+        "translated": false
+      },
+      {
+        "author_name": "Lucy Liu",
+        "author_url": "https://www.google.com/maps/contrib/111005338526080986194/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbPxv5clyYa3flhQdAeZlzz_1YZr58GjubyRW-QEt8PQnWQMD_rw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "2 years ago",
+        "text": "The pasta pizza is one of my fav type of pizza but it's not the best one I had. They got lots of options. It's open late, so it's a great drunk spot. The onion rings are ok and would pass next time, but the fries were pretty good but not the best, but it's good quality for the price. There's seating too if you want to order and eat there.",
+        "time": 1676745800,
+        "translated": false
+      },
+      {
+        "author_name": "Alyssa D.",
+        "author_url": "https://www.google.com/maps/contrib/117722798290043422339/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2vjolus2bUSvuIkbakgOOdOiESbgoYilSLoQEHAPSStoT5j99=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Best and underrated pizza shop in Astoria. Their ingredients are always fresh, the people who work here are always always so nice. It\u2019s a classic NYC pizza place. When I walk by they\u2019re making the pies in the window and always give you a nod to say hello\nIf you want pizza, you\u2019ve got it.\n\nTheir sauce is also on point. I\u2019ve had great regular slices here and pictured is the stuffed slice which was amazing.\n\nI\u2019ve also come here for a catered tray of ziti pasta and they gave me an an amazing tray with also a box of breads and knots.  Such nice people.\nThey\u2019re also open late.",
+        "time": 1685575862,
+        "translated": false
+      },
+      {
+        "author_name": "Alex Seiberling",
+        "author_url": "https://www.google.com/maps/contrib/115836052383598988148/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXKgLIyfMb80bORBLgjfcGajWq6EvWgjYqn0DCgv6AQBJzHg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I stopped in here around midnight without any expectations. You can't expect to have the best food that late but I was very impressed. Got a slice of cheese and pep. Both were very good and inexpensive. What I loved most about this place is the people working there. Even though it was midnight, everyone was smiling and happy to serve. Will definitely be coming back for a couple of slices",
+        "time": 1726213488,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "meal_delivery",
+      "meal_takeaway",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "user_ratings_total": 391,
+    "vicinity": "43-19 Broadway, Astoria",
+    "website": "https://www.ginosatbroadway.com/",
+    "photo_urls": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN0DUj-F7_KRf_e9DuOo7gNwupRi-fZiO5-dvIXoL9AnKVlFyv6LTohpmnNVnOLinHUqZrrTwJDCxWEcCLKL2r5-EEF4LZrX8BaR7Bk2hw2qPcUXjpw2BMDferWuPMHIRy-BsjRk7bfFVIC9KCVam_aWguIxJpIOlvZ0B349c9OPfzTwira5lfEV8E3X4TOxThxlox-TgC3djg_La1ryvDxJguc6Ff00Q6nnGc0w-zgw87-lyBxpQgC1N7qLxOeIug1NupdK5L2Jw2mVE4jI_WrulmH1EYkQfSZjqbw0jUfNQg&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN3hR65lqJlw-fZco7FnjBGZ8By0qSe36QqOEoSZgAgUudKk39Dcf-2O5LDYk_67nzJrc47e95zVD44FLx5OTsHLiXeZYUG0hkaL1X9Dw4kgyUfDFCSjgNmyWRpP5zAGelUabWLIki8rJsnbTZ2h_1wWBdQWuGVtZ_MRH9zSbG3NrO393LjGi23w495F4DqGl3eMWeKvCiuOJxHqM9GEdHnGHoRVxMauL-ru9Tsb_s6caoIHrPLv1TIfqYf8gMqlh5LghJ-meSUcz2oLI6MWiGB__qVukTmoTmhkYmBZ1Vgjwg&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN1lSlxwvJU8VzaWOE6pn2vW6yRWve62HGf6UkILJbUlwchM3lSlRPtlC3wOpVrVMdDI5vON48RkfLP7fqspIYqVQaxeDjPTK8FvC0R8PtOQMcbGpk1oyBLy3y5KsTWbbVqoZgSpQrUs5gbuxliV6VhNdxrxAFUeBue5xKwe7BJl19k1v9gEfk_Gc63PB6tcZSFa7RDPsgDgraJFXn_Gr4VNo-M3XkWKGgSir4-4LmMztYe5MjuAICtT48K51LOvZQ07ns7TcoYTbxoTqJ5yY-_z6n5A-34uHG0wnMjAHYcwFQ&key="
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "38-01 35th Ave, Astoria, NY 11101, USA",
+    "geometry": {
+      "location": {
+        "lat": 40.7555621,
+        "lng": -73.9224658
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7569783802915,
+          "lng": -73.9213070197085
+        },
+        "southwest": {
+          "lat": 40.7542804197085,
+          "lng": -73.9240049802915
+        }
+      }
+    },
+    "international_phone_number": "+1 718-943-7404",
+    "name": "Applebee's Grill + Bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Tuesday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Wednesday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 414,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113039225826527313535\">John Arehart</a>"
+        ],
+        "photo_reference": "AcnlKN0qaZ6jFUkkGAVbGFeqkIRJuraFyahTyX9DJHWhRxCzysWGxgtQJbNtgSdfK47pJoBidyO6p_gjQEh_h1TFQg7kF75RXQ8vpmaPid5iLStWzVvxitShJZYgSJzc1qN0-mLxWCexWiTzoxs8wBMmjQQTqtR8tt4vTRIVwTkUafEn-nsGjaBkZLoRJwrA70SrJh0nQjHT67yNKJAOiG_Xy-4ehVHJItX6m-ZraQCV3SU0yLk0ikbTkac8oGtfH3wocVEV2i1Mf4FxjBjil79ND-8wsmsuBwV3gBXW2akBqZseHnkE3eBX7wT_8za-18ajRhiTGnh7Kq6NAWctuCJJYSBsTmYcM1yczoK-ZN9gnjqHDjoHPz-HW2xcKu5tU9uoDvqAhl3kFVJmsuFyuiZl_q4_WE80Wpo967grC8gpOeZt96Zc",
+        "width": 623
+      },
+      {
+        "height": 2358,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117515374302297283692\">Cesar H Hernandez</a>"
+        ],
+        "photo_reference": "AcnlKN2tQNqeR3-tKR4c4bUEvTegi6qeSNW84L3nw4ahNZK3iBGi7sDhVXmzUgm0gNRUnks0TEspOLS-lkIFuW6dHNPToDrGQaEXK-HcGX-VXHvb14hgByS29XA-pjr6xx3ksVjD62f5UqUTMiMFMsjTxmJPI3sP4H6UIZr2TB4URtd9LYazcgb5hF-caF2HzIm6BOeT7PEerOZwktAdXsWM14WfbdpeoMvanJLTPA7ua4uOjvGUBTCLGz16qVYENUp1yzOFrz3x5FuMosuus3HjzjrQOr4U1vvYZ-kZqaCwNxs7cHO9ufbrQJK3MNYk9xCgAXU98Q1n4ra6IEPVIR0TNkn48GcidYqT-MOc2heYAjlXHV24dI8WyvuUqi4YqeXiAV64igoKCHHOIn2ywwUPT3gsIaYPqKM15qYuSneFk3cqGgA",
+        "width": 4191
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112924311757606934120\">Shaun Liu</a>"
+        ],
+        "photo_reference": "AcnlKN0wPy6w9i2Fe0yzlDqr1ItWrWEWoNaRi1tWA9AIdAX28ErDJIgAsqcQdFsbKqHQIhp1IGKIl907qL0UxFjmO4tYtt3EbLUE7eeEmD5xbPe0BfKjxiyQcxcyAE9z-_Gkil-HbpM-p1Ks44-IaeZ64JRkjUB3VL5QuyNcMc6APDax9tyyKlKl5ZarygTRuItAIvie3wtOBb1P8-nn3SRhyvrCjkvbQh-e_Y9ZfEJlqvrJtX23aqzOZnRtYkRtJusxdyDBr4KL-GJCZKi7psHLmnMDfE0kaKQwIOPY0mlnbF_KI_Gy9bqO0nMi3ouvh_xvO-5CDx6hvaIYuXWdNxCL4qFSkb59xCZFZHPCv7ChDI_wPYPpgN0_4J5lDoMVgkkyc-k46MwKrfAEMDZzYa4BfLL3UeMlvaDJP3UdXiG5PYrGbgZ_uC6sBiURvvM_QA",
+        "width": 3000
+      },
+      {
+        "height": 1418,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105774820627514889643\">Yaneak</a>"
+        ],
+        "photo_reference": "AcnlKN0zl0nDkuW818vWF9NTZa6xzn6O_mixa8JzjqsHIfP9_a7MqxJj26loYENALmRumavPsj31Wky9RWpeMSeHlNvckcgi-8mdx7GlVjyXoPGyQX1lsSTZry8chvCowPDn6BblMQXvm32ABcACMnmb7_wUQLYJEgC_dmRCdCKrMxd07hgeMxdNqXqjUgn4SyPIHFxvLKhZhbgIBbXjZmpi3btxTV4QuwX3712A5FRb037HbAOmD_bEm_pI2anOTTlL6p2N5Xp9YkEjbz6b0YtaLY-sEZcC9QZ7h4qSSzb3Wgkit9kU44Zxla8CqYCchXfLZlqsZXR-2GRO73t6h5C-qzeOiGCCXIiB-2Xn4LdgENe9bXl_YAPyp7ctMxHzFaSDuLkgtBlsrEWF6Bna3AZbZxclLJc6GO5OgIpi3QxQ4G3j610x",
+        "width": 1753
+      },
+      {
+        "height": 1720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112665227018714570130\">Tee</a>"
+        ],
+        "photo_reference": "AcnlKN3HqW6FN2vVb0J4jJ5zftQ7yJ6aBEVfEQSQyQAwV3jQTksuiuyS_SZEFv5InRcnzRs1paiQ_DakI8BwW-Uyl5QE_nAiHK0MNM3hN3R2E2urhr07dXjx1aR_FC7UQc7QQZ9arRu5Ew1x7YrjT0XhrosBmPAoDv905ownWTjOcS64URmylTya9Xr9witYJtR7Augv4kCtwAzpl9ahDFh3vqaaHDXrzL37bUZWxYzb82hd4XiVP5BAy5iJjiD6bLJB57o86n-g9qQ0jmmZYkSPynMUHt0bP7zsm6_rsuGfEkwZOC3P8aUIgxhttAHv9bJJjmrsltgniDX5U3GErTFQBtv9Z0hOIzvr8zWldfmOL7SVEMnXZPQduUdQzzP1PjD9Jkt4YBXT4bnODxfQIu8GvvTDv70IG3pdhowHqRbIthmjT_y8_XyfFcGUvnHosyq0",
+        "width": 1291
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109850878987968081829\">Sledge Williams</a>"
+        ],
+        "photo_reference": "AcnlKN24f5g6fECndM5cCkB0mdwRqWrAv_S8VHiTQhcEGO-mziQIqRyS-5O1he3d5aIR1J2U7pAXmW_yhinKi8dJVLTliC0-UDoc6amVXsbP4bmW8niR1FH0IcbEp7KgSriBgg_EDT3vFJrIORRqDsViyFKtMwUMclJbUDZpGVWsUSN5HyOF9jo1wqjvAO1Fi70lMdrGj_KLlXqKr2RindEXSkvpFeBKvRHTqLTn_xGdyJC3tRvquQioMLf0VDvO8FThX_PTTYZcxpupyW4DKvU0USxB8bqG7zYoXlg3p0ixJ2BHBrSluuk7rjZr1VSUwAuxEJUPtiFSd838SeWV-ZtclvjoN_c5Ez3iP7wYTk-wX837hspBg3mPDcj7BVi_y-iP0ZIp3pZGMICpUvpT61kfCyMyhou6jhHG5YRmywKhTC0",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117535696581523448850\">Marsha Newman</a>"
+        ],
+        "photo_reference": "AcnlKN39V1M9LXHBzYnL2dAjVtqCE5NVvzuooYv_Syb1Mxk3PRHJxDLGLNSkDJog_U5zkzKwe8XVsEPVaLnQW4PNjALgQ5s5mcddgbiXAerhGNfpbq1sUGifAQOJ1Y7fgTE6lKkEHU740qVwjLJrKudkShVJe33sHwRwnnD_hen5WUyFkHzbgLIbx4bOVAGpFRcEOYa_lKE8oZmAKF1ggxTeCNnEIyNve3g1J8JjZWXGLHBTvU30iw7inHvriw5hIFjqnwKptcXxS-AeMM5I4KTaUJX7U0t1rozKv5bsExtxk5Fc5HEisBCMRKE84z3qsV1Un8hbsKq05WB4sAd3Qdl8h2FXlwxCNnfXdt0AKnkG5ApShDe4hKRazGVjJOpD17q5jnvuCZmcKMVj45Xyvdd45H6ojj0dAzthZ6gXspdRgx75v6Na",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115853437259746166078\">Kaitlin Duffy</a>"
+        ],
+        "photo_reference": "AcnlKN0IZQykzSQp61DaGT4LyCGPjt8xk-RX8Sr6MW9Hkov_u8Aqo50Op8xNYdT0wqewd3qhs4a8uBFmB9G2yvkv0PmW8nsPy6u4HskxZw2uGFKdZi9PlnaZBFrMlKIOuGOb4vOl5gziIS3hibPX5bjZIT9WzWzslRCecmNTb0Gl7yBeeYRV5xoZuxljrlBP5PvIrfBJPLrgqdoovb_j26SkgNRxT_j0fUx13CjiNCAKiC0bXvh82x9COTZIlwJm709MJ36w5O9ah2jelks-fGTIXDKJ00SqmmG_kYC8vVW2UW0OcA5UPUMg1v3Qi1zh-lCNq0yQklJqWEB6PqVm34OS_602zDepkuYT2To3sIAU9wW7aJkww0tQafe1a79eLLs46pBggctTSZVuvE4jPg1JM0ncvlsDKvzan9nnJfxyktHj7M9V-FjaVQfbeu1z_xxJ",
+        "width": 3024
+      },
+      {
+        "height": 2258,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110846401708654773706\">Keith Driscoll</a>"
+        ],
+        "photo_reference": "AcnlKN28skOJV0Vrq1cIzH9p7g24Vf8B7PeJQilXslaSwAO-jiC77d-WvAvoqt-Od2fdDKt7g3ufBMNhInn5QmxClMqCfGRbXzGHbXIVUKRlD3wng-RUepyK7usk-ufqRXw_N0zk-QlBaNyV2QBg6KuGFlvnfVIcjjc0TeU890QgfRh6SJBIjc2EcXt-qg7Ov9ww9fUJBbbb6sTU-MAoS4_DyMLR6t7QSSR7BBZUu9V_tpkkrN8kV-B4stj2SxT2BWcSy0CNquQ85VBWa12PeHsGiXCOFQxBQR-d2jgPWJeaHHxjhQAeqZueli8P5K95jzXM8rSbERUX2Z7cgbCoDNNfi03WkkkT20oxzW4gsNOvE7f-WKyikOTAIDoGssfxRJ4ZduBnKlD_1XMRIhmf63kWXdL_uvKyb091phy52rJHnvVmwAtq",
+        "width": 2748
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103420912871841424025\">Nancy Barrientos</a>"
+        ],
+        "photo_reference": "AcnlKN0TWOCB8lUXXwipW6RXghweBHFdLhsFgvTJhbfbvqy3oi3ddq5zbpGtTcUiQy_2GWeZr09XZoaFTib_-XTtsh-GAtRIB6YoZLykONAcj2u405Ny_EJSCb9m7LByRLPiuQGkbT2o2nRQIk62PsHhhuPVq335bDCbRKCK0Lo-go-3tBceg8uKEFv4L6J__JJOSJIMJfGp25N4bFkSBqr4mvhrlCMoazmbGR69cMDAvQEMqK9tBDKekIU4uTdBR9CKggfL_cqA2X5yoe_mvUiL947I3nv2ZJKfhR1K0phAXMt1iCcxEEb7AP--hrIbKUptBBFa155kNAIEjCmKRt5RA9w4g0BGsJuTp32ZhdQL7eP8SB2lXFGZ3K2gDPgB39mggBbgwd85jxALxDt06yqBFDqKTl0hCIZ4FLc3oICRhxk",
+        "width": 3024
+      }
+    ],
+    "plus_code": {
+      "compound_code": "Q34H+62 Astoria, Queens, NY, USA",
+      "global_code": "87G8Q34H+62"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Tee",
+        "author_url": "https://www.google.com/maps/contrib/112665227018714570130/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuM7RoJHCY6f_ld-gUhiY4onWxeFDeE_tXFGLAUcaPCtI64j7n=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 3,
+        "relative_time_description": "3 months ago",
+        "text": "Came here for a kids bday dinner. This is where he wanted to come. The waiter was really nice and attentive. We ordered a whole lot of food.\nThe thing about Applebees is that it does taste delicious at the time but everyone's stomach hurt after all with the same symptoms.\nWings were my absolute favorite. I devoured them with no remorse. We got free soda refills as they promised. I really love me some wings man.",
+        "time": 1762135353,
+        "translated": false
+      },
+      {
+        "author_name": "Mike Reviewed It!",
+        "author_url": "https://www.google.com/maps/contrib/109297079319217147151/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj5lH0x62ElvKwvT-J8OrMHdrzBaCodH6ykp6JQCDRtBuWzO8=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "Service needs improvement, a lot of improvement. As with any business It starts from the top.  This review is no different than what the other reviewers have said in other reviews. I am not sure who rated this place as 4 or 5 starts. I think the 4 and 5 stars they receive are bots.\n\nThese are the areas of service I noticed needed improvement.\n\nI had to ask for napkins. Had to get the ketchup myself. Isn\u2019t it common place for a server to ask if you want ketchup or any other condiments when you order fries. Additionally he never asked to refill my soda. Free refills are supposed to be included. (Same as other reviews, they don\u2019t care)\nNever asked us how our meal was going or if we needed anything. Overall he wasn\u2019t very pleasant just going through the motions. Just being honest.\nBurger was good. Not excellent or great. Just good.\nCutlery came in its own paper packaging. I guess that means it was clean. Suspicious considering the quality of the service, I question the cleanliness of the cutlery.\n\nAt least the the TVs had entertaining videos. Distractions.\n\nDon\u2019t get me wrong. I tipped the guy anyway because I am a nice guy and worked in the restaurant industry. We went with the 2 for 25 meal special. With sodas and tip came out to 40 something.\n\nUPDATE later tonight. 1 hr later. Food gave me a stomach ache. Not eating here again.",
+        "time": 1762131505,
+        "translated": false
+      },
+      {
+        "author_name": "Nina Jakeli",
+        "author_url": "https://www.google.com/maps/contrib/107862935949282432878/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYSeDcII5Srf_68WcaH9VxLO8Bq_tUFDIneBofZZZaDfBeY49LQA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "We stopped by Applebee\u2019s and it honestly hit the spot. The chicken quesadillas were perfectly grilled, packed with flavor, and loaded just right \u2014 cheesy, savory, and satisfying without being greasy.\n\nThe  America\u2019s favorite boneless wings were the real standout: crispy on the outside, juicy on the inside, and tossed in a bold, flavorful buffalo sauce with just the right amount of heat. Fresh, hot, and clearly made with care. Thank you for your hospitality we will be back \ud83e\udd0d",
+        "time": 1768622112,
+        "translated": false
+      },
+      {
+        "author_name": "Erika Freeman",
+        "author_url": "https://www.google.com/maps/contrib/108913892436515275012/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUO4qLBhetKepkdk82VjD9YlfjDhzTsn5uqfAOlS71EHjH_igI=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Our server Rose was amazing and her customer service was impeccable. She was very helpful and kind to me and my boyfriend. The food and drinks were ready quickly and tasted good! The crew were very patient and allowed us to finish our meal even though we came later in the evening. It was a 5 out of 5 dining experience.",
+        "time": 1753677527,
+        "translated": false
+      },
+      {
+        "author_name": "mina",
+        "author_url": "https://www.google.com/maps/contrib/105521893325227711896/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPfws-zbRkyaH4pTsme0HQzbjmxlFDn5681FSJWbyXIl6axyBd=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "our server was nice! we did the 2 for $25 which is a really good deal. i got the bourbon chicken + shrimp which was delicious. the drink buckets are also not bad for what it is but the drink is mostly ice lol",
+        "time": 1747792726,
+        "translated": false
+      }
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "user_ratings_total": 2335,
+    "vicinity": "38-01 35th Ave, Astoria",
+    "website": "https://restaurants.applebees.com/en-us/ny/astoria/38-01-35th-avenue-76004?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=76004&utm_content=website",
+    "photo_urls": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN0qaZ6jFUkkGAVbGFeqkIRJuraFyahTyX9DJHWhRxCzysWGxgtQJbNtgSdfK47pJoBidyO6p_gjQEh_h1TFQg7kF75RXQ8vpmaPid5iLStWzVvxitShJZYgSJzc1qN0-mLxWCexWiTzoxs8wBMmjQQTqtR8tt4vTRIVwTkUafEn-nsGjaBkZLoRJwrA70SrJh0nQjHT67yNKJAOiG_Xy-4ehVHJItX6m-ZraQCV3SU0yLk0ikbTkac8oGtfH3wocVEV2i1Mf4FxjBjil79ND-8wsmsuBwV3gBXW2akBqZseHnkE3eBX7wT_8za-18ajRhiTGnh7Kq6NAWctuCJJYSBsTmYcM1yczoK-ZN9gnjqHDjoHPz-HW2xcKu5tU9uoDvqAhl3kFVJmsuFyuiZl_q4_WE80Wpo967grC8gpOeZt96Zc&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN2tQNqeR3-tKR4c4bUEvTegi6qeSNW84L3nw4ahNZK3iBGi7sDhVXmzUgm0gNRUnks0TEspOLS-lkIFuW6dHNPToDrGQaEXK-HcGX-VXHvb14hgByS29XA-pjr6xx3ksVjD62f5UqUTMiMFMsjTxmJPI3sP4H6UIZr2TB4URtd9LYazcgb5hF-caF2HzIm6BOeT7PEerOZwktAdXsWM14WfbdpeoMvanJLTPA7ua4uOjvGUBTCLGz16qVYENUp1yzOFrz3x5FuMosuus3HjzjrQOr4U1vvYZ-kZqaCwNxs7cHO9ufbrQJK3MNYk9xCgAXU98Q1n4ra6IEPVIR0TNkn48GcidYqT-MOc2heYAjlXHV24dI8WyvuUqi4YqeXiAV64igoKCHHOIn2ywwUPT3gsIaYPqKM15qYuSneFk3cqGgA&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN0wPy6w9i2Fe0yzlDqr1ItWrWEWoNaRi1tWA9AIdAX28ErDJIgAsqcQdFsbKqHQIhp1IGKIl907qL0UxFjmO4tYtt3EbLUE7eeEmD5xbPe0BfKjxiyQcxcyAE9z-_Gkil-HbpM-p1Ks44-IaeZ64JRkjUB3VL5QuyNcMc6APDax9tyyKlKl5ZarygTRuItAIvie3wtOBb1P8-nn3SRhyvrCjkvbQh-e_Y9ZfEJlqvrJtX23aqzOZnRtYkRtJusxdyDBr4KL-GJCZKi7psHLmnMDfE0kaKQwIOPY0mlnbF_KI_Gy9bqO0nMi3ouvh_xvO-5CDx6hvaIYuXWdNxCL4qFSkb59xCZFZHPCv7ChDI_wPYPpgN0_4J5lDoMVgkkyc-k46MwKrfAEMDZzYa4BfLL3UeMlvaDJP3UdXiG5PYrGbgZ_uC6sBiURvvM_QA&key="
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "41-15 31st Ave, Astoria, NY 11103, USA",
+    "geometry": {
+      "location": {
+        "lat": 40.7608158,
+        "lng": -73.9156375
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7621006302915,
+          "lng": -73.9143412197085
+        },
+        "southwest": {
+          "lat": 40.7594026697085,
+          "lng": -73.91703918029151
+        }
+      }
+    },
+    "international_phone_number": "+1 718-777-1355",
+    "name": "DiWine Natural Wine Bar & Restaurant",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Tuesday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Wednesday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Thursday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+        "Friday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+        "Saturday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+        "Sunday: 4:00\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1365,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101977362649474157542\">DiWine Natural Wine Bar &amp; Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN0yO9jpF5HhsHhgNfkhvTR6nQwBmFSmtOAc_QOFpUjF1VOGnvpzHXn378gmTJcnLtzEGIKivFUIpPr4xd_csUn_Q_jyYkYnZ4u6wijHUqUQvqt0zJ-44HPan66zuz9xOBCSp4RFhCmJJEGOR7fKoEA1dSZWfrWB_4Faxp-A1cQ8NAtJWIHS58WtLIJclTip11Qqq0HPEPDgNy4d7Y_cg7vkTlA2zGQ_IuPQ0xzFipEalQsUv8d2eOnVLlfS9F5basgfFIMETBPT8JmZwwbclEcpG8XAb3mJ42BCNBVdwSij8Q",
+        "width": 2048
+      },
+      {
+        "height": 3200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101977362649474157542\">DiWine Natural Wine Bar &amp; Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN2ieE1OcLnTjsGTo-RWjJPQhq9EVIgq-xYggbpwiGMeEv5WRUlaLRZIbOZ_wdYCtQqUo0AiXo_pTJi4a3GZ3amWVEPbnSIUB75ueLbBStdDWAV95h5aZ8mHmUQ7DClX5Y53NH4nSsJH3qhxK8kyfwG3H4QYos5Q58hsRHqcKwudmwjg0bw2QPKd_GVUMau1zkTHKy1X58nhYENZwA8ES1VibavgGofQhFCpnMAr7nBNTAyioCjM7uI9CEwHg3PujkaUtaDLOxQ4gn-daZGzxyBCgIRTumYre7bTVWZ7AafvAg",
+        "width": 4800
+      },
+      {
+        "height": 340,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109586022635409209348\">Gigi Dzidzovic</a>"
+        ],
+        "photo_reference": "AcnlKN3fAQ54X0rULVK6ObffhDkclNRTskD6_YAaYYjNWvWioh4uhjjSjS0u6PY6H2CCsDuJcFb1aTfJCnDLRektpAoWFoltUldMK-cZSFNJLuPfq9tDu-HVCL_p15OxUd9ZhtXCRgVoKQ4Qhh93WA307TTfQU1Xec5H7JRBMxoH73j2IBqXl_DXwWWyoFTYY62pE0kExrGzrUAOrYUSErRM9iF1MhkHXt0H0HLNfTj3mF27lcPYWy4TeebbNLSd2S-o2JqqnKMoWwcmEKQI2ZtLYTHMunctP5wO9TwdVZS9EF0V3kcU7JZgqE2R2cHb-0BIiHr-odY8W2dzQZ6md-KqeWMlgEVLoFpDvlER-q8bcIrMaLbB3E68LLG1IF_IprShpgeMqCduUWGQaYep547LQA8Wj571PbQVBfntLFAINyRjIQ",
+        "width": 506
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103922022616389392603\">HYEKYUNG KIM</a>"
+        ],
+        "photo_reference": "AcnlKN1TLzbGrurHiKHyxD9DAgoUs9XJ_lB2jmtzO47hp_drBZCcOQY105Rz5UPZrwt5lCkbDYtkONUdNzx_wl2JJsMxC_iuzSRckTibuDwbnv6rB49udjmXb5rrsiJ3oTtOmhMEEnvIYHtGgnBWilrpDwoZsfFOn4KheC7E7ibiaBPhTEdgvF4dKwNPe_hKatrB3GvjpW0Q5UpVi5FubdU6Qm-p3ELEs0KlXkaok_Gl20WLXRLEyMh4ocwDQ2Jkz460o8tIenQ3NK__UZ6eekQ5HGgf5xqeDxs4iYe8nARKxE9NvaQg03_xkEU5Pn3-bJ2PkB8ZtHop4stsljgliq8xVJZRXyBSNhupoxGvZiGh6Sy4F2Ge8JeOEoYAoZxGHKseX82pa7d7GNu-MOsGqMv9NWZ2cCPvlet5Usil2Qp87kdwSg",
+        "width": 1816
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101977362649474157542\">DiWine Natural Wine Bar &amp; Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN0IyWVV9gZzQeoG6Dkef4w1ypTAqRsOgqnHeveNTKeDPPWu2xcaoighRWPMCB7exQ_p8sjc7GJerWTwDYfGUfAe7RqniwE7MuoTON2OswYTkqoki-5jDWu0oF37eGZ3J2Cyem9p9NAFafu41ZIZQki7dCZTEHogLITVeCR4R_Dl9X4rx28S3xG3FgvjyKyrQabEwdrbmC3cduP2QSMwqd190oDqqgHPchXfmUqONcGxdy3u8R0wvFXcNcfkOg6vBLlJ2BCKLLhk3MfkjQovG21ttdv6dBnfXi62rjwUIvue5Q",
+        "width": 2268
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116551406527752953775\">Aditi Rai</a>"
+        ],
+        "photo_reference": "AcnlKN0-QmXfVOheeyYXDvbprK6r9LHRXB7TgKvW61JXvXUNHdnjwAsL0JxhlwK8IN5W0PPg8-q64NOhGvSOUD-oHdn_DqWvErCUjGgTUNbXDUUE-v-u2LyIro4fWui2MGuz7F7hLmp6wRXi2wc76_Z7tRUHd0pd0MZQ4iKvaW39iHG283OVD01Pug2D1TpqLi9qjyB_NCQ2OM3V8QZseK8MDvBFQoHfsVDiGYwN1Ht8wEddccU7pU-nhYgUo4w_4WvfBPBDAd60lbQ0cDr7QmQ8CI9np2gVY0eJuiaYqIO-x2-9J6dUsyxqvmCE5kI2aSZU6aCtRBiNMHSrygoGskEmMKY9XUq9H3ZVXGkmDNtr_oPeCEICAHATq_s5lbUlojUlwwZwIYjYLGXu0GW-MoBGliSn-C_PdJDYVvVpL7O8PiChwc1rsa2LRboYRGzd7A",
+        "width": 4800
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101977362649474157542\">DiWine Natural Wine Bar &amp; Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN1kI4x9JHArj1ZHK-Ow9CbPOlj303iEZPNPuPV02n8A8wWPYQ71vasc3rf4D4r58L0W2lxOAZMBy4IBnjviVuHLu5gSh7uGdiPypqydZdQo-XG0fAfLbyzejmnENPlJZB7O2mNbfktH1KQrO9BOPbnfO6Ftu2vAp7jCVXj65H9wteyzd4LbuzVJAHAfe8mIg68jJYfAjApK2jVHWjjxXTa2_05G0U2M3NYap_gEZcnpeH2_Ey0nHw_QZFopLkz6ZdXxl5acBkbOCDjSe5-UsKp19s7vW1CXTTLNDFO48eP2YA",
+        "width": 3000
+      },
+      {
+        "height": 1368,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101977362649474157542\">DiWine Natural Wine Bar &amp; Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN3oFoRkxJnB1Y_V6loE4X7d3lynkgqCCM08RFyC_3X5OXjsekRFE1ajc5dDpeBqDCZmHAW-rbhugCBozewmCI1Zzd5m0VzX3ugZEKk_TWTEqq-Q3mkQrczIKspM28JL1zTEZ9Qh69SzNSyxj6wpMcVCXZ8CGIdxuYySChe24Mts8LZfNAW3QYTCWcrhwBXqVcqGf8c2SDiFzBY0FI0IgmKXVhvIzp6NBHw61-N5sQcd6CMjaPYBHRaGvPSZgZhrHgL6nFaQI931lWrBxke6gMKSlIr9vexvgq6hEFMunhRbsA",
+        "width": 1284
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101977362649474157542\">DiWine Natural Wine Bar &amp; Restaurant</a>"
+        ],
+        "photo_reference": "AcnlKN0P5-2odhTecX8BBTtkN5yO0waSG0GNUzHgGJmZ23OIYNL3mLQI3UwXBLP7mK3GVIFeKrv1g_5KhNWx0GDM9bXFj-iCpqUNzxZHwvv9ctqZw5d6OdP2YJuRncE5gUVnAM92HNa3LJsMmPiu_K1h6TsjIeA7u73Fxq-1653WfgMiz1YmPJshfo6btz4IiAejlIGcebpzdyEX_ggfm8haxCPN-C1qPIZyQZUiTbsZpTRzkypg-kCark-7Mts_n3iAiXHxLPnseJbed5qUP7p7b9xenE09FMWfp_s-7LzTTgtcoQ",
+        "width": 3000
+      },
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109098323239755646002\">Cody Huelster</a>"
+        ],
+        "photo_reference": "AcnlKN0KvP_g1wwuHPUmTIhfSIDvgtNCTbcJJScriom5OomFNh7kQKS-d6P4bbckeP-8tjVDjX8Lzuy8kT3OLBSnVcEIfKl31Kl3ka5tWtRyWB6PE0YgghIopFdZYCflPcIUJvkzeW2M2_ZolMcOmZch3bgcurnrZDMer-k4ItwI-K6O2UclxvE38uwQweWpWHiZPOxozXFsxsUTZi_bkHZ8-XO_1QWRubYq0vPd1SHekB9AWNLwykGuq61vJqtrU2__-_FFTBzy02EHpf6duSgSYq9huSEzEkkcFEZbr3Erqmq5iVJjIZvmdX94jdwsSLoe5rEMZseYyf--XSAmf5nXqfY_JXtbY6ARsNmeLywf3-Pz_gfTsiUtTZvBk6TSArDlmvrb-7fGjc2ew0ffTr8ExC11DxdXaFjE_teXydzo1cFZDjwL",
+        "width": 4608
+      }
+    ],
+    "plus_code": {
+      "compound_code": "Q36M+8P Astoria, Queens, NY, USA",
+      "global_code": "87G8Q36M+8P"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Mr. Spark",
+        "author_url": "https://www.google.com/maps/contrib/115062334584890248423/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlbwNZXUFeHQMEi7w-Mut7nT-2LBPHKPgEj1xBUEC9yE9_0B7L=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Omg, this place is absolutely amazing! The atmosphere is incredible, it gives off late-night bar/club vibes but in a more chill, relaxed way. I\u2019m not sure if I\u2019m describing it perfectly, but it feels a little dark, kind of romantic, and definitely has a hipster touch.\nThe food and drinks are outstanding, and the staff is super nice and helpful. If you ever come here, you have to try the seafood, especially the swordfish. It's so delicious and perfectly cooked, the kind of dish that literally melts in your mouth. I\u2019ve been here twice, and both times the food tasted just as amazing.\nI\u2019ll definitely keep coming back!",
+        "time": 1760134154,
+        "translated": false
+      },
+      {
+        "author_name": "Aditi Rai",
+        "author_url": "https://www.google.com/maps/contrib/116551406527752953775/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXV0wfmoJjOptmdSxzp1X5mDLx0mSj4YDBUJW2w1SyERTnQp_3z=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "The ambience here is absolutely gorgeous \u2014 warm, inviting, and beautifully designed. The service is attentive, helpful, and incredibly friendly, making you feel right at home. The food was absolutely incredible; I honestly think you can\u2019t go wrong ordering anything on the menu. Both the cocktails and mocktails were lovely, and the fact that they also offer lite beers is such a thoughtful touch. I\u2019m thoroughly impressed with the food, drinks, service, and d\u00e9cor. Truly a must-try at least once!",
+        "time": 1754799622,
+        "translated": false
+      },
+      {
+        "author_name": "Jahnya",
+        "author_url": "https://www.google.com/maps/contrib/113817153720653088115/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUH6qs0ISWPfk242QVKMLcvOPYbDJ7rebXJt7-AwC9ZCLDMxnI=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "a year ago",
+        "text": "The steak bites were delicious. Cooked to perfection. The pizza was okay. Could\u2019ve been a bit more flavorful. The bacon pieces could\u2019ve been more crispy to give it more texture and flavor.\n\nThe Gouda cheese on the board was my favorite, then the Brie. The cherry jam was a great addition. I would go again. Low key, calm atmosphere with great and attentive customer service.",
+        "time": 1725758458,
+        "translated": false
+      },
+      {
+        "author_name": "Elizabeth R.",
+        "author_url": "https://www.google.com/maps/contrib/113673986645117508677/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUobYaPtpq2PMCWJ_Ko1mKL6c-OczUd4wtQDULzpXtpvkgsj_o7rA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Another nice place, to have a romantic and beautiful night, with my husband, love the fact that they have one of my favorite trail of cheese to be accomplice with the perfect taste wine, I don\u2019t eat pizza but they have very nice light pizza which have one of my favorite arugula salad, delicious fresh and home make.. The wine was a perfect of taste name is kind of glou., We love the atmosphere so nice and the area with the curtains give to the space a perfect elegante and romantic touch.. definitely will be back, we love there it\u2019s like a the secret place.. totally recommend to try..you will love it..Romantic but adorable as well.. \u2764\ufe0f",
+        "time": 1752411573,
+        "translated": false
+      },
+      {
+        "author_name": "L A",
+        "author_url": "https://www.google.com/maps/contrib/106902774865450335457/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrs-vYC8AO6hGd1NjOLgwTOwROTUumfJc2SN4353yec1xfEXbX_Q=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "First visit here specifically for wine. Was pleasantly surprised with the quality of the wine choices. The bartenders were friendly, lighting, romantically dim\u2764\ufe0f and live jazz to top it off. The happy hour wine was also great! The happy hour oysters were surprisingly meaty! Pasta was yummy! Will be returning to say the least!",
+        "time": 1713975204,
+        "translated": false
+      }
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "user_ratings_total": 568,
+    "vicinity": "41-15 31st Ave, Astoria",
+    "website": "http://www.diwineonline.com/",
+    "photo_urls": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN0yO9jpF5HhsHhgNfkhvTR6nQwBmFSmtOAc_QOFpUjF1VOGnvpzHXn378gmTJcnLtzEGIKivFUIpPr4xd_csUn_Q_jyYkYnZ4u6wijHUqUQvqt0zJ-44HPan66zuz9xOBCSp4RFhCmJJEGOR7fKoEA1dSZWfrWB_4Faxp-A1cQ8NAtJWIHS58WtLIJclTip11Qqq0HPEPDgNy4d7Y_cg7vkTlA2zGQ_IuPQ0xzFipEalQsUv8d2eOnVLlfS9F5basgfFIMETBPT8JmZwwbclEcpG8XAb3mJ42BCNBVdwSij8Q&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN2ieE1OcLnTjsGTo-RWjJPQhq9EVIgq-xYggbpwiGMeEv5WRUlaLRZIbOZ_wdYCtQqUo0AiXo_pTJi4a3GZ3amWVEPbnSIUB75ueLbBStdDWAV95h5aZ8mHmUQ7DClX5Y53NH4nSsJH3qhxK8kyfwG3H4QYos5Q58hsRHqcKwudmwjg0bw2QPKd_GVUMau1zkTHKy1X58nhYENZwA8ES1VibavgGofQhFCpnMAr7nBNTAyioCjM7uI9CEwHg3PujkaUtaDLOxQ4gn-daZGzxyBCgIRTumYre7bTVWZ7AafvAg&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN3fAQ54X0rULVK6ObffhDkclNRTskD6_YAaYYjNWvWioh4uhjjSjS0u6PY6H2CCsDuJcFb1aTfJCnDLRektpAoWFoltUldMK-cZSFNJLuPfq9tDu-HVCL_p15OxUd9ZhtXCRgVoKQ4Qhh93WA307TTfQU1Xec5H7JRBMxoH73j2IBqXl_DXwWWyoFTYY62pE0kExrGzrUAOrYUSErRM9iF1MhkHXt0H0HLNfTj3mF27lcPYWy4TeebbNLSd2S-o2JqqnKMoWwcmEKQI2ZtLYTHMunctP5wO9TwdVZS9EF0V3kcU7JZgqE2R2cHb-0BIiHr-odY8W2dzQZ6md-KqeWMlgEVLoFpDvlER-q8bcIrMaLbB3E68LLG1IF_IprShpgeMqCduUWGQaYep547LQA8Wj571PbQVBfntLFAINyRjIQ&key="
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "42-18 31st Ave, Astoria, NY 11103, USA",
+    "geometry": {
+      "location": {
+        "lat": 40.7602103,
+        "lng": -73.9152773
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.76166398029151,
+          "lng": -73.9138759197085
+        },
+        "southwest": {
+          "lat": 40.75896601970851,
+          "lng": -73.91657388029151
+        }
+      }
+    },
+    "international_phone_number": "+1 718-313-0404",
+    "name": "Spyce Astoria",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0400"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0400"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Friday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+        "Saturday: 1:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+        "Sunday: 1:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107874052990089830063\">Vanessa Valerio</a>"
+        ],
+        "photo_reference": "AcnlKN21tkAaCZak-ZLOEwBV9aApLWD3zCBvVWaGzh1LVbsFCl7pqUOHA0CrEH7YyjxKPL9qeGvWRRQ55Izn755uLqFB-ad7Mk_VBMY4zFjVvkRf3dubE8N4fdbLWPgjHlHjDqRrFhXxltL905NKO_w9h5lGEF8ONIzuun0rurcxd1PLevSWknXyAUpRt8b_AI4oIf6c8vtRr5Rzx606VvqoX5sIegAijphegh4_nYnLPJlt_SP4iYpiKRmRVJMNCx7QjR7tjeidbZS5AbeeNNASPoZZakWBYgCuVsGpBOH5f7anPFmdeJh2jIjrKoTmBtilhzRpLPtObvFhxjVD-CwWgi2z4oob4nW2hNT2BHiiREb3mTWhN9Srye_diwJVD1xYJsvwucQihp2pO2y98TvnqM0ik-64FlJqwrlfQBnSdOoBMQPl",
+        "width": 3024
+      },
+      {
+        "height": 667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117772175005063029259\">Infamous Entertainment</a>"
+        ],
+        "photo_reference": "AcnlKN392WknFmZs2Q2buXC2z0RfkFEXJIbGDiIXkQ3SEpHKP1X8fgzXvwdmbhY5bRRIO8FUoAHLYGtwrjLRTHvwljRy2cZxWFx8vgV38JbpL_q6yNazgY3Q2zeWrrVULDrukomOY41SO1SOKk4pfz5aYTT5PLXHwaMcHuQw_jSQa40SqvYz_docEKNFi7o2gJgHL9nhuojvjPgBBWpL3SCBFjXNszUuzP99lZaWB6c_ZNCIQm3m8uBUB_0VpR9Iv4zW5L9sZEH7bfKHyFZF_7GQOCiB904RJx2jynXJQWvdeUSzxNoJUfd2tJFppUujjBwmCIYFLRzEyMqRpidG5G4X_Z6OwdhVRp9NuGUttJdAW6fDqbWwZI6tkRBD9IA29TaXqegi9r04Q1-x1cG9DSkPSWCbHT6CIMhbj_joPYQVomxvwA",
+        "width": 1000
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103522482263915664533\">Jay Jeffries</a>"
+        ],
+        "photo_reference": "AcnlKN3VMtOKE1D_xBouAHdhm44zR-Vkn5ZOSfgF0gdy2XEtmhiaWAN2LzghrhtZWKbfRagmNvEty_MCsdhwRYw5DI-H4EyOaTC4VPucXwDeOyFphYsoPFKvx-nzUdFpeB0lveweFYsZOqbPHblXxC_6xkYWZJzHdO5hhGslhFKK_shwLco0zKGJ7AAXNLIXp3oEhFYn14pxGZoYW540Y9Kt1YMUJmbLqrvVhVJzaubjfPuZVo404RFepYZiMkvKHB6JwRgGmm0at6OnYkk_sMJymnPYLZIxpFpYXfwNPWUzYzjdGyiLRvbpVBgisEor0BS534kqMh0TXU5sJ5SgLjzkvR-YH2FSbBhVcnAcoVtOc29Rielg8HYv3ORI1ub0SyvQwWfC2K43LXJoaf2teT-SN8pYxSxxNfVjL1mdctweZ40Cog",
+        "width": 3120
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107874052990089830063\">Vanessa Valerio</a>"
+        ],
+        "photo_reference": "AcnlKN3oASbDwWuq5qd-7EFbu_chwU-0B8YsFvRliPGpK1j1594w9uGOFq29oslCaBekSzmN2MPrORGPROimtienOfP4jlA1vdPjXBC-9HnWjaPGabExEv0jjr1Xqs8EvisFFwUw2UOxAYv-a8Yf67nt7BCv9zghDvQOtYa-6v6at6DUV9o_llfwR5CMZIRwzZAgNCnCrLfxXtqhFoxW1h61oTh5dLToo6n_TjI2cXCEcnGCmnwqkXrB0xcsyN0l4kbhGjM0p7ucboLZLEADsPK_jnOUhGk8jKkklB1TRQUjQpqejXtmRczHbit2kaR-XN1261DITxO98bzOCPYWII-ZL12mIFJ8-GT1rEXAlbELliNgAAF50aFrqr2RMUMCOGu40vcta7gFql75DDj53fGXm_Ikst3BdC3tsZEgbGmGsT_4CMA",
+        "width": 4032
+      },
+      {
+        "height": 667,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117772175005063029259\">Infamous Entertainment</a>"
+        ],
+        "photo_reference": "AcnlKN0LcgUo5i9kJeAS_b48U7gHueDpGTd_B0thp_xS2rEOKYKBR9MJcoiz4PlWXo2FVfJDGPnO0ddLiP568hfiyBYCj6i-NZeq5aqTnDPPAqIzXjTaIoBbqt_dH7xGQaleimX2WqprKdsFkQXKAJvRAwz0Ki_1OgRHtycvK_zetej_cq_Y7doXF9FtUdpYvibqBITP0myLF11wPU_rcGJi3FETGJPtov2-s89_-WBQ9TUvmRpw1DIUadJomNrampe3Qw-Ijys7wyy-gDwQoF2R9Pf9u8RryG3tmtnBV0wj-V0I7BepIx7txgDkMg0mSGIuICFr12ZRDYWqRfGDfAECaqTXkkpsGvvysrFnejU92ew48oHppI0Gtlk_HOIuW-T7xRRM1E6Ew5L1-5jvss7dvyX0vFE8epVK_pG5m1vdMWlHVYKO",
+        "width": 1000
+      },
+      {
+        "height": 808,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117772175005063029259\">Infamous Entertainment</a>"
+        ],
+        "photo_reference": "AcnlKN05vawYiMflqxniF3U83d3z8DFjH3C9GOoJmGuIIwD-6cXl7dpFL2sL07yBfsyVJL6jGbM5VDjy4j7u_MuKTwpFqfIwa8-oDNSwnbv8WZoczeVHXRKEKxxBc-R3PwjYSMCW1PWuYEKW7G0fzLBriGzOBJs-Xkj2v8HG9xkniAs-V2e7_Ph08JEWA_C6ZBYr_YJa93c7kfP4a665C67Tqf40c8Ok13yXVMDTP6UZrcSxPSmq2Kyupaun-FU2BXHKhOCyBuFL9M06dpLcz0d9X_KqS8ZvCSuzWkQM-FadtpqkuivXuDj5LIf0I2NFnIIcdD9SPVKZwtk71Ip7_MOzEFGPAP7dp0-PzHfbn7RbMz5ov5H0T7YV9F6s6Uz6vOjmt33ubuziFQPww7iVB2k_u2fiAs4GCl5qjSkTCX3aZWCzNJ0_",
+        "width": 1125
+      },
+      {
+        "height": 1067,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101013464372850222994\">Yairton Garcia</a>"
+        ],
+        "photo_reference": "AcnlKN1w7Y70VerGXdcwQYitgRozCRActQVZxhSZ7UjTK1Ibha8Bs1Nt3ItbC-75RJ_fgt8gfgWNN0ggMXe3qzKUGepUn_6-bKYtMxHNdqO0wLwgQHIbBdY-dyfVneFYi2C3tkXuh2KHicsSh0bSceEj2E0da6jcfA8lic-Fhg7BMt3DQ8vOvKuY-v3mWtg2XlBzVwUbafyIyE3O2nVfHWH_iEkP2wWugFTfVsyFhP8Ji3mLxMpVhtBB3igMAlEs7Oq-Xfp3u9ZGXjqqII2Rhb5xAoBjp7Sho4RgZD_qIi86iw39NFAZgc5MaAwjAbCifhk-1rMBMmZMXpxjPfTKT28sUscxwxizLR7TqVuYJ0xmt8a68I5U0F_albf-046PCKoRc-UtmYJDAVy36-rYu9Dz29vswIeDq6yyOa2upfaRpdsWxBn4",
+        "width": 1600
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107874052990089830063\">Vanessa Valerio</a>"
+        ],
+        "photo_reference": "AcnlKN2ULqCLy2UJbLSeCMwpFoiUvQJhzizQTltGdPpsAqYOwDpH7J5cnSM-fmWt56PBVQbtNBOwxCxAsQsYBJ2OpM0gAzj5WgkB-YJJ_ZhT8xLJ0SmB9FWThimK00u0DYAgps4jlriYsCY6635_Zb0INLUcvR4rE4IAEm8-xCjRo7DFgmGTo-3FGYm1UO_v1fzPHWCb2GVmuLVHvlhmWeCsa8THhRsyKNCFT3X1AEQCUYICO5pqg9o820dFzljbycFjs8LfNHUhmSiWovrP5l1Qxm2sWiiK2bwxYDGv7-nmOytaqBlK_X4vEoCx6YPomFC_37QkGhIu8FWwABzdkNfFF11TxXHbtlaSiec06Y7rInhktRpkXs1bsP87Re3Jl3wnZrtdPdvvJT58DHKkuvYP5FB3n2azE_LuTwb1ZvtqjYAkYd7K",
+        "width": 3024
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103522482263915664533\">Jay Jeffries</a>"
+        ],
+        "photo_reference": "AcnlKN1FO7dJEiryI11a_HxF1Bur_gS5V2MtXyHX3m4zHWZ0RYqzETdtxMj97uxdLWhsV_9siHh4BogqWMwYvfFKCcOGBsGmZyYRstNwT3gZre-N-VhGYSmG_JxTB1mMSif3EkVWmQ31z1w2VjTg364wpZEqdSp4fwOW1FH94UOMf-qWXaiIv0GbWOo_NUQ7eJbGB5jb5nm8a5nbZtoJG9kFsHPWhBciu9UaUQM0xXqY2Jd9COmadT5IHwP1hUcURJWUQ30M4kcoZ5WvMgxAnPIDQwvJvaIk22rUSDkykACrdRIGWsWLs_LQgR5go0TF72QDmYB-p_emrqRQNOxqoyuXZe_zmpEz34SDvvnUQzUUhA5MHED_GncvOX71QlUKexBWgHNznZTWwmIaSSPUzvI0qS-oJUqBiW-amgGI-KSVpqOgOA",
+        "width": 3120
+      },
+      {
+        "height": 734,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103354285556016738958\">BreeAnna Mazzariello</a>"
+        ],
+        "photo_reference": "AcnlKN0_SigLRCejpa-UdzQJBLsehI4sFAJ45QW3HK4aYm9YDJL-7cW0J6s3FWnETUMv2yb9C51RLZ4u7HbjhxmC4-_huC7yVLhNMGhlUd1E-PXVoxlJnDpksq3DC55GV7t-YGYJBjMKhkXrY_Fzmbhrv2vmFrGgVGXw1JgjLTAXqvBAIB7fJnAbXuiqayFSaEDZ9d4beliLburwJe1kvLFhQrgKOW0TgYEFiCJrwHEPEBmTEZimw9rgc1CiR2sTNTclE_6VXOS_9k2rTKBktCxn9rbcKZZgoH9Z553BX-M0jTI0N5i0hOOw6EitzsQTTYok00I-9xpxQa6ZifBMCuEMKLkPWPv3JodJvi_w8h_Lqy8n_ONgi-PSOKNpePLbDl8qodm5bulJwZfBhzCNCZHXCUkdUXSd-qrpDekxWz0bgLXkmg",
+        "width": 1125
+      }
+    ],
+    "plus_code": {
+      "compound_code": "Q36M+3V Astoria, Queens, NY, USA",
+      "global_code": "87G8Q36M+3V"
+    },
+    "price_level": 3,
+    "rating": 3.1,
+    "reviews": [
+      {
+        "author_name": "Jay Jeffries",
+        "author_url": "https://www.google.com/maps/contrib/103522482263915664533/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIBTV1IDDXb5ryKsJfmnGZGj_oUAD93SdQ4uMXSqCw-IPf2xA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 2,
+        "relative_time_description": "7 years ago",
+        "text": "This was my first time at Spyce & I have to say it was nice. Great music & even better a live DJ. There were alot of great aspects to it, along w/ some needs improvement. I'll start w/ the decor which was beautiful. There were chandeliers everywhere w/ purple & blue lighting. On the tables were votive candles. There were different dining locations. We were seated by the bar near the Dj booth in booth which made for intimate dining. I had a Peach Sensation and my husband had a Passion fruit mojito. He said his was tasty & as for me mine was just ok. I asked for a lime to add some tartness to balance out the over powering sweetness from the simple syrup. We then ordered a pitcher of the Passion fruit mojito and it was a good choice. For appiziter we ordered a sample platter which came with chicken/beef/pork empanadas, fried pork & fried chicken & calamari. We enjoyed it but there was a old oil smell to it, they just need to change the oil frequently. Next we had the Shrimp Mofongo, had good flavor but the plantains were not mashed enough. My husband had Salmon & mashed potatoes, it was delicious. Overall, drinks should be made well balanced, &replacing oil frequently makes for the best flavor to all fried goodies...",
+        "time": 1546533753,
+        "translated": false
+      },
+      {
+        "author_name": "Chingiz",
+        "author_url": "https://www.google.com/maps/contrib/114973449437430982396/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJSWOWkTV2_zRVD7Ju_C2Wcn8KBjq-FaAcXtoOZcOtBgKOYOg=s128-c0x00000000-cc-rp-mo",
+        "rating": 3,
+        "relative_time_description": "4 weeks ago",
+        "text": "Hey Security what is the matter? I am walking here. Keep me safe.",
+        "time": 1767929246,
+        "translated": false
+      },
+      {
+        "author_name": "A. Madera",
+        "author_url": "https://www.google.com/maps/contrib/112497432411390343977/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9j2JcVcfzxEz-NSIpCWNuRRMcL5es9X_KzbJdNEp7RulK8rvq=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "6 years ago",
+        "text": "Great rice and chicken, my girl liked the mofongo. Enpenada, pork ND chicken appetizer was good too.\nPotato salad, nah.\nFemale bartender didn't want to take my drink order. Said to give it to the server. Might be what they do to add to the bill. Not sure. Was weird\nFood and drinks were good, sangria was watery with all that ice. Great music after 930\nDon't know what that was before 930.\nLounge vibe strong. House music was great\nGreat female bouncer, servers and staff were great. Needed a chair and the guy was responsive. Very good vive",
+        "time": 1574565246,
+        "translated": false
+      },
+      {
+        "author_name": "Mel P",
+        "author_url": "https://www.google.com/maps/contrib/116915102977866191498/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxwDhS2X62fw-Rb9S96JFgJoPYCb8PPl5vuxWQowuWWqXG2uZb=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "6 years ago",
+        "text": "Needs to hire better security, felt totally unsafe after a fight broke out Saturday night. One older Male security guard was worried about phones recording more than his job. Which is to break up the fight which had 2 or 3 security guys struggling. Keep in mind the fight was between 2 girls in heels which escalated to 2 groups of 5 mostly females,  maybe 3 males (which were let back in after fight).  While security guard \ud83d\udc68\u200d\ud83e\uddb2stood on the side of the bar smoking a cigarette. In a place that won't allow you to use a vape pen?. An he was also very rude. Now on to Drinks , my tequila sunrise didn't have orange juice in it. Tasted horrible. I recommend blue long island ice teas though. Music was ok. I dont recommend going at night. There is no dress code. I seen a girl in bicycle shorts and a tshirt.Totally over priced 50$ for these 3 drinks. Can you even tell me what those drinks are supposed to be? One looks like iced coffee the other disappointment .",
+        "time": 1564971014,
+        "translated": false
+      },
+      {
+        "author_name": "Los Da Prez",
+        "author_url": "https://www.google.com/maps/contrib/110833507407280846615/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjcWtx0ikE89fsmgc7MyjpZbDJc-6ScL9c72IwhQKDVM68HaNk=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "6 years ago",
+        "text": "This place has the best Brunch parties in the entire NYC area. The food & hookah is amazing. The music and sound system is out of this world. The service is wonderful. The bathroom are very well kept and cleaned and the bathroom attendant is very nice and friendly.  Best place to celebrate any occasion!!",
+        "time": 1565290014,
+        "translated": false
+      }
+    ],
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "night_club",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "user_ratings_total": 193,
+    "vicinity": "42-18 31st Ave, Astoria",
+    "photo_urls": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN21tkAaCZak-ZLOEwBV9aApLWD3zCBvVWaGzh1LVbsFCl7pqUOHA0CrEH7YyjxKPL9qeGvWRRQ55Izn755uLqFB-ad7Mk_VBMY4zFjVvkRf3dubE8N4fdbLWPgjHlHjDqRrFhXxltL905NKO_w9h5lGEF8ONIzuun0rurcxd1PLevSWknXyAUpRt8b_AI4oIf6c8vtRr5Rzx606VvqoX5sIegAijphegh4_nYnLPJlt_SP4iYpiKRmRVJMNCx7QjR7tjeidbZS5AbeeNNASPoZZakWBYgCuVsGpBOH5f7anPFmdeJh2jIjrKoTmBtilhzRpLPtObvFhxjVD-CwWgi2z4oob4nW2hNT2BHiiREb3mTWhN9Srye_diwJVD1xYJsvwucQihp2pO2y98TvnqM0ik-64FlJqwrlfQBnSdOoBMQPl&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN392WknFmZs2Q2buXC2z0RfkFEXJIbGDiIXkQ3SEpHKP1X8fgzXvwdmbhY5bRRIO8FUoAHLYGtwrjLRTHvwljRy2cZxWFx8vgV38JbpL_q6yNazgY3Q2zeWrrVULDrukomOY41SO1SOKk4pfz5aYTT5PLXHwaMcHuQw_jSQa40SqvYz_docEKNFi7o2gJgHL9nhuojvjPgBBWpL3SCBFjXNszUuzP99lZaWB6c_ZNCIQm3m8uBUB_0VpR9Iv4zW5L9sZEH7bfKHyFZF_7GQOCiB904RJx2jynXJQWvdeUSzxNoJUfd2tJFppUujjBwmCIYFLRzEyMqRpidG5G4X_Z6OwdhVRp9NuGUttJdAW6fDqbWwZI6tkRBD9IA29TaXqegi9r04Q1-x1cG9DSkPSWCbHT6CIMhbj_joPYQVomxvwA&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN3VMtOKE1D_xBouAHdhm44zR-Vkn5ZOSfgF0gdy2XEtmhiaWAN2LzghrhtZWKbfRagmNvEty_MCsdhwRYw5DI-H4EyOaTC4VPucXwDeOyFphYsoPFKvx-nzUdFpeB0lveweFYsZOqbPHblXxC_6xkYWZJzHdO5hhGslhFKK_shwLco0zKGJ7AAXNLIXp3oEhFYn14pxGZoYW540Y9Kt1YMUJmbLqrvVhVJzaubjfPuZVo404RFepYZiMkvKHB6JwRgGmm0at6OnYkk_sMJymnPYLZIxpFpYXfwNPWUzYzjdGyiLRvbpVBgisEor0BS534kqMh0TXU5sJ5SgLjzkvR-YH2FSbBhVcnAcoVtOc29Rielg8HYv3ORI1ub0SyvQwWfC2K43LXJoaf2teT-SN8pYxSxxNfVjL1mdctweZ40Cog&key="
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "31-75 Steinway St, Astoria, NY 11103, USA",
+    "geometry": {
+      "location": {
+        "lat": 40.7593119,
+        "lng": -73.91836930000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.7607272802915,
+          "lng": -73.9171444197085
+        },
+        "southwest": {
+          "lat": 40.7580293197085,
+          "lng": -73.91984238029151
+        }
+      }
+    },
+    "international_phone_number": "+1 347-639-0476",
+    "name": "German Doner Kebab",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648407544666599796\">German Doner Kebab</a>"
+        ],
+        "photo_reference": "AcnlKN0KA8V2cheB3M_eSypA235Jhgru5X51BZN1nhVjzq8lGouCcNdqaEz7Zl_u9ni9MyTHfY3sWy7Z7X9JxVZn3HQufEtlanwUtIk-ttjuEllgHAVMHRGW6H_xv7gZL5d-0kdBa5L9-V54NWAD7rQt9jtL9_sZGKsogLaP2KWmWo5pMQYYQ8XHCJ_qDd6DHVrR2NXNj_OauX8pBk67MYdyT5DzaIQhlo_OBGYXvMvPLNiYdl5MfAHCrP4aHVDypFfyQpaVJbdXqL6BBfsVMk6ykBmowB7kcwnV643PiNWqzpPifw",
+        "width": 2268
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648407544666599796\">German Doner Kebab</a>"
+        ],
+        "photo_reference": "AcnlKN1uhO3O2_dAh4IiEOQkR1IxUcZTrIcfc_VhJiQ-KZLT0wPdW2QHTVHJNDIRvXAcqW5pAUIAI1I4kW9FflrGABcFTBIr7BT7pQpFks4Zb8snLFRemmaiQ3WsMhzo8p0N4usX89hdJP0N6cG_XLbGwl86YkTjtonRDD4HfWCo4v-YzvYo6Ltmp_G_CqbC5r9zlfstHIgLLeU1pYANTuiEDjRly6Qh133efxYj8j1hhrJBVhvts0e-B9t5qiNLrOi6VetYjvXw0zkU6fh_iM2Rp252LZXLG3gTEubupdZ5BOVgcw",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101435563389591916347\">Exclusive Eats For You</a>"
+        ],
+        "photo_reference": "AcnlKN2X98nc_vImHlPCLGkFxkri45M5b8Nm5mAEVz2CDE6zRCs0IoxlSVKWlzVnQRX62kqCyAEea70DimG01evq2NWLlNsj3tsZBo1uDssOwW-4dg6vSJpSnX542X70VcyL0m19e4K85gb4Ggjx1Qyi4WdvgvLnKC9qOHlGE2Pj1Y-wfwCnd7GKdMGYKpPRjmIEUliX4Ua22rSxpLx02PwXvG9yNHdMkq3j8G-jEotqTB3VyKCgHyM_fDBUmufoGTQnp3V_vlj6mBq8x4c38ZwNroKrcX4PhBkA_CZfzqxdoLDfiMgsU8kivbVOylnrortcRGAbb88eoXXOUqWJ27A8i0pN7DlLm9gcZ1r9BlNijG8jbHzTlFwHXMYKnGirIF3Q8SBCjMM5r9UhUWDKMGh4mJf42WAVh2f1eiJq-jXHrJZ__YtAKM5CbLLXlBbD31B-",
+        "width": 4000
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648407544666599796\">German Doner Kebab</a>"
+        ],
+        "photo_reference": "AcnlKN1vl1ICEfVq6utxklVCHT5w85IXSmbDR-Eh830lmxbk9X6R8WKwn0_mfF6kE3Y5WHRQBoaUeah7aO7QtCBDZGVydm7u-UCNF6Cmm2PlcGW9mLvYMJVtDu1Fu9NBwEW88BcG84a3MIOBXGMETzNf9ip2wI-QZE-poxDgkqgwc2XTjLvcTCBU2VHTqmPCBa-5LFQo8oG2f-vGpo7_WnaO3EhzTfpSzd1LEmur0r0W4LErRh8XzbOTVQWMGfKvU1vN2JDw6-_HmFvKyaF3eHOkkFEhpVQTJvATgsZnbtwG7WpiLw",
+        "width": 3000
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648407544666599796\">German Doner Kebab</a>"
+        ],
+        "photo_reference": "AcnlKN3pzoFEInPV0_MmtC8CSvMtysZxv4m_fiWRRB2CTTlGhut4UW9cElmyuGxQnrwmb3vVomZX3GotcPvxslouNzujice1VVWU44eJqZsa-Xy98vKaXKhw3xQg3oTGFGwdAoPxL7D6glWS3pkjIwz_7Jxkca8SnYWGxn96lPwP92j533P-zf4HDYuwhTX_1lBEyMBPf8w3qrP95aLPWe1LAmgBfRNrs02RsuqWyHuKxu-eVCnebWy0NEMh6bkj445-bF3n2X41SGdn23uIaHXVFZphk8SrVAR9GVn-LczGDslcSg",
+        "width": 3000
+      },
+      {
+        "height": 3600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101435563389591916347\">Exclusive Eats For You</a>"
+        ],
+        "photo_reference": "AcnlKN25q0nwc4JS2fnBHiRxAXfNN4k5VlDhEh6U3dp8QkcH-K2xQNEBGtxC4NjOih2gKNOVfG50noD15KYZ067AuIq1KdsD7-LfOwPYBin8wXA-bz6BcKKiyNfKsyHazxerwFj569ECeu1RB1iaIWEIVRus_Te5-OjIVmjPZk-eiKbUCyUUFpGppJi36CdkYBaOV7KkZXBjhHhTD6GGex69NZwPw6SmlQRdZvCaRkPF-OpvV12czg3ZRHPdK2CQgLx_i1nctetmP1IjO72dFmgWsV0QvLN2E-EyvBBX_5GO6vYZ2Moqp2QtJ1uz6scLniOwrmS7zBLdDVOqH3g9D8X8_V4XR6HrysiTF9yUZtUzKC8TwSLHQO0kOttT8faRhvhxiUEtrXTsp531WpcNk24IYb-UOldR_hzm_Lq1qIX70ll3zZHdTo7SAKRf8re9JLKs",
+        "width": 4800
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102182211044499509827\">Halis Sonmez</a>"
+        ],
+        "photo_reference": "AcnlKN1ew6KXIgNTptl_Z_VfX4mbsR4M6UOAXAw_eTkVb6o7mWqf5t_4zzxSUEPrjVFGXZ4dhW2GDoB8ioaiWb3pxVwlQBuWi0-wV_EAONjbV1W0ZcicLoPSt_M7Nm232bWW4miNVPM8mS-QAt6WdBngvaNlybO3hXbT9wzSKnyijG39KcaEfP_t0HGO31rSu-xpT2wChxXu4X-VLaeoYD2w3V6kKZtmzfQ7TSfsht2WEBREYjTQFJx9G86CLtkhTf5iJE1ZvVJcbtCR9ReJ056Oc-p6VPad-tMyVYMe1ad5065AcLLQyIFvkcRaoiQw4_r_rWCTGHdBWIeJhAEHKGVDo8jI6n4FWbNDTHFadGcagyd4YDeCix-PZDAcy88GrUnpog30YhvwPnaNtdAX9Y63s378n4-E1XPQABcyruvDbfonZQ",
+        "width": 3024
+      },
+      {
+        "height": 3099,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116955859479451339151\">Hubert Mandeville</a>"
+        ],
+        "photo_reference": "AcnlKN2YA-qkx7PbdzoN4mSANowk1LtNxt7QOvsTpEsFATsx8acj7SnPF_gmS5eX4OVi664fmlQQxjZz7RZYwebdUR_ybKp2rJSO3wcCta_55qJ0kOW1IcPA_FiZIYG1uxJpqtH_W4OIP5q-d4uPbzCJ0khZoKslp_twaGZamQDuKKKPvwxtmn0VrVMXEAZJf6X-a7jNQCCiIK3XJpUiTfUfwxsi-gz4Iq3-637RT3PtM__6M9qujqzQH6khRXbkdVFifSGnBl5WPiBNhQkFREmqj7xfFy0dYtcpHww3Qa1KJDE6OAjH9VdwnimsynIanHzOowSSLXj-2nCn5lLhv9pIb9IvgChKNMgamm3DxO3Q32mU3w4bBJILnBkDn54CDxZOg-YwflXeCoe-LPwUdNkISmRdWGQ3r1Aob50A-kXJwsmyfw",
+        "width": 3227
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106670592592683178537\">Laura Yee</a>"
+        ],
+        "photo_reference": "AcnlKN0XJPDYQMtqyWSaHMrjk-GXw9XWbBLc0zrr6kWhNhXbSODsXwr_FXVDc8NHhQ3OIboTQJFtsDyILEA66sWaf-E8gO13AqI2PzJfk_FQ5sfWWB-iXfcRAabGqxP4OUT-L1mWwdJuNYpEglY4IJcfIKgysjIRrKiruBy4U9nBnr7JQL8acM9ylz6FktQidi8qLBqGbUjH_gWfj128hdsbApXJaOpba_uV1QLt3cQOlJLm8YNtMW7cv6lDFMcXZEMjlAmfCJYfnRUcoLxihPs2IlFaFAJv95wTAiwtrTJuhNyC138wiXtsCaWaZbAilGV91GY8Kpf6th82CacxFcjeusnZQMcHANTgpYzjPjcTQV-PqGJBEZ6bxmiPGH2_1l-aoDSZfvvDDp9ZiDN_mdBLTiwi1caTwVWypb4gJ0QeT2pyWQ6q3lNNkjclncStldx3",
+        "width": 3024
+      },
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109648407544666599796\">German Doner Kebab</a>"
+        ],
+        "photo_reference": "AcnlKN2hxqzAk7wDjSp2vSTvUMCzqeZGTPcdnCTDJgXDbfMfN274Srxgg3aXK-08-G4nSltWXJo0g3lvN01Cs1-tkjXZC5abb7HWmixd0QXJm1Mr20KyxAtY56-mUHtojb7tS2hSrVzwHM-QGO31uSU_Wq4UsTO3MEoH5_ehCx6zTkYUANFqVJr7T3Xk3SqRsnO0ZxVhSD3eqaPjFXIKaM8BpdhGOh3s2mIMw9AMdB6YrKPJejKOs8B5nFXHw1x2n_LPECEuSdfUS532-9uhFDHXCxYSmAtTY4T2FWY8jEYpIJaabQ",
+        "width": 3000
+      }
+    ],
+    "plus_code": {
+      "compound_code": "Q35J+PM Astoria, Queens, NY, USA",
+      "global_code": "87G8Q35J+PM"
+    },
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Anita Chang",
+        "author_url": "https://www.google.com/maps/contrib/111114234401138945429/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjRrBnfwn8OBG1PubF2iz0ZJBvCJnQvcNI0eTPZlPjO2UlxfC1=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "2 for 1 Tuesdays is Unbeatable! And their mains are quite delicious in their own right! I loved seeing the towering schwarma, and I enjoyed eating every bite of the chicken wrap. Iceberg lettuce isnt my favorite ingredient, would be my only critique of this place. Otherwise, I'm excited to come back and try their extra protein option and sides!",
+        "time": 1757602425,
+        "translated": false
+      },
+      {
+        "author_name": "zo maq",
+        "author_url": "https://www.google.com/maps/contrib/103904062528380445998/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIy_o1fjxoBd6QqxwwpfvRVGeCKRrCPeYH1e3QzdOZRu-97g3X=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Delicious quality meat here served up German Doner style. All the meats & toppings are laid out in front of you. Establishment is very clean & the staff is friendly.\n\nI got the boss box as it's the most bang for your buck deal. Their meats are so tender and juicy words don't do it justice, you just have to try it for yourself. Cheesefries were nice and cheesy and soft. Give them a shot.",
+        "time": 1746659163,
+        "translated": false
+      },
+      {
+        "author_name": "Melaphant",
+        "author_url": "https://www.google.com/maps/contrib/109407419678652413120/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnORsItkJwZH6VEG-0WVwBWYswhtifrWJI3ZJ6ESafS1vmcXIs=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "I loved the Original doner kebab. It was delicious and so flavorful. Yami was wonderful and really sweet. We tried the empanadas and they were okay. A little greasy. By far the star of the show was the original doner kebab! Oh the curry fried were good too. I would definitely come back",
+        "time": 1767301096,
+        "translated": false
+      },
+      {
+        "author_name": "Vic Matos",
+        "author_url": "https://www.google.com/maps/contrib/109552904707337027497/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIApIrpbLi4J9pI4uB3uxLvD8ELi_ZnGMIRNR_iPWVGFutv2R1f=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "I stopped by this halal d\u00f6ner kebab place for dinner and tried the D\u00f6ner Burger along with the Flaming Fries. The food was great \u2014 the burger had that perfect balance of juicy, seasoned meat and fresh toppings, while the fries had just the right amount of heat to keep things interesting without going overboard. Everything tasted freshly made and flavorful.\n\nService was quick and easy, especially since my order was simple. The staff handled everything smoothly \u2014 no fuss, no wait, just good, efficient service.\n\nAs for the dine-in experience, it was fine \u2014 clean and comfortable enough to enjoy a meal, though not particularly memorable. It does the job if you want to eat in, but it\u2019s really the food that stands out here.\n\nOverall: Great food, quick service, decent atmosphere. Definitely worth a visit if you\u2019re craving something hearty and halal.",
+        "time": 1762051025,
+        "translated": false
+      },
+      {
+        "author_name": "Austen Tinz-Burdick",
+        "author_url": "https://www.google.com/maps/contrib/106522968565946075184/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaZb6M5WPpb_-HiX7gdpuBx2sh7RRHW-05_kVtv2pmFuD6-Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Walked passed this place dozens of times and finally decided to drop in. Upon walking in Yami gave off a welcoming aura and was very kind.\nI had the original Doner Kebab, and it was delightful - meat was sliced thin but remained tender and juicy. Massive portions to boot.\n\nDoner empanadas were a bit of a letdown - flavor was alright but they were exceptionally greasy, and much makes me think the frying temperature was too low.\n\nEmpanadas aside this place is absolute worth a visit - unique atmosphere, excellent Doner, and exceptional service. I wish I had stopped in here sooner!",
+        "time": 1767301589,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "user_ratings_total": 1885,
+    "vicinity": "31-75 Steinway St, Astoria",
+    "website": "http://www.germandonerkebab.com/",
+    "photo_urls": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN0KA8V2cheB3M_eSypA235Jhgru5X51BZN1nhVjzq8lGouCcNdqaEz7Zl_u9ni9MyTHfY3sWy7Z7X9JxVZn3HQufEtlanwUtIk-ttjuEllgHAVMHRGW6H_xv7gZL5d-0kdBa5L9-V54NWAD7rQt9jtL9_sZGKsogLaP2KWmWo5pMQYYQ8XHCJ_qDd6DHVrR2NXNj_OauX8pBk67MYdyT5DzaIQhlo_OBGYXvMvPLNiYdl5MfAHCrP4aHVDypFfyQpaVJbdXqL6BBfsVMk6ykBmowB7kcwnV643PiNWqzpPifw&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN1uhO3O2_dAh4IiEOQkR1IxUcZTrIcfc_VhJiQ-KZLT0wPdW2QHTVHJNDIRvXAcqW5pAUIAI1I4kW9FflrGABcFTBIr7BT7pQpFks4Zb8snLFRemmaiQ3WsMhzo8p0N4usX89hdJP0N6cG_XLbGwl86YkTjtonRDD4HfWCo4v-YzvYo6Ltmp_G_CqbC5r9zlfstHIgLLeU1pYANTuiEDjRly6Qh133efxYj8j1hhrJBVhvts0e-B9t5qiNLrOi6VetYjvXw0zkU6fh_iM2Rp252LZXLG3gTEubupdZ5BOVgcw&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN2X98nc_vImHlPCLGkFxkri45M5b8Nm5mAEVz2CDE6zRCs0IoxlSVKWlzVnQRX62kqCyAEea70DimG01evq2NWLlNsj3tsZBo1uDssOwW-4dg6vSJpSnX542X70VcyL0m19e4K85gb4Ggjx1Qyi4WdvgvLnKC9qOHlGE2Pj1Y-wfwCnd7GKdMGYKpPRjmIEUliX4Ua22rSxpLx02PwXvG9yNHdMkq3j8G-jEotqTB3VyKCgHyM_fDBUmufoGTQnp3V_vlj6mBq8x4c38ZwNroKrcX4PhBkA_CZfzqxdoLDfiMgsU8kivbVOylnrortcRGAbb88eoXXOUqWJ27A8i0pN7DlLm9gcZ1r9BlNijG8jbHzTlFwHXMYKnGirIF3Q8SBCjMM5r9UhUWDKMGh4mJf42WAVh2f1eiJq-jXHrJZ__YtAKM5CbLLXlBbD31B-&key="
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "34-19 48th St, Long Island City, NY 11101, USA",
+    "geometry": {
+      "location": {
+        "lat": 40.753016,
+        "lng": -73.9144402
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 40.75429133029149,
+          "lng": -73.9131665697085
+        },
+        "southwest": {
+          "lat": 40.75159336970849,
+          "lng": -73.9158645302915
+        }
+      }
+    },
+    "international_phone_number": "+1 718-728-3600",
+    "name": "Chuck E. Cheese",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 1192,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115323735462497785514\">Chuck E. Cheese</a>"
+        ],
+        "photo_reference": "AcnlKN26JwFE96zgGAm4KnUw-lBAQws5CsCcDtpNQKHX3SzkVT6XnwHhafBm-PFOAdBSgv1aOTsFuqGhX9OhZ8nWvpAuw7-Ty6WX7efUG4SWEfZZ9jZZwBJhxr3GNQcIBdpfVezyNk1wR_NPDCUVBHmsMENTedXNHALIcKLwH_Q8EvUKVaUigl3cDjJU7_pbUwaCIUg2aaHSWdTdxVdLd7eeVDPEa2ZFwpVL-WuUZ-9jgNS9NrrGGSCdTatrxznTq7ho2xJIjelIrZBgEJSHnKz-gRdx6TYta7BF9qn8QCBsfAbr3w",
+        "width": 2119
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113831713438601267337\">umar</a>"
+        ],
+        "photo_reference": "AcnlKN1nY6Fa7kfHxhBi4Wiukz3LJ_bxw-ObXq6rRxff-w50Efes-wvpGv1Gep4jp2DOSSyDJ8hcUautoa4YN95I1xisdSFHB-0GNAUfjZ44iED2UgCz5QI5Mu3zpoujsL_T3236jv0BVNftzBc_gu9M-SrwL7kZ-SGFI_e3rOEfJqIE3tT0N6k0EE3AE8DFRtYV-CsjyCiMjZglHXsFy-5ucbp_S34_jbtOWjUFz2rjSA8rdRK0LdW0INL4gyEDSZtrhWWeorqzZCU3DKf15IN9w0xD1u4-9vLuYdkkmC6FGhAt0QiGNXdYOqxCLc0YPE_2j41g3J0hcEJGH2it5yaj6a6zdwjpUPrIvSghIAA_pwTisxd6riwQZouExh87a_0IG0tWYywgRQ1HnxarCTUDq-sC9V-LeahE4cJuZHyVhqZNhii-8-W4T5kqfyxFUw",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103822131409979163947\">Rocio Gonzales</a>"
+        ],
+        "photo_reference": "AcnlKN2qx8E74L0Bvjs3lxN1nLxB7bf3QEuWUNAUUxRWAJ81SPbsXt_5txVNo0FyBioOFJTFT5YDi5AcBDKLWISsmXr4Qf2LtZrARYbtCYVyY5mX8VoIN4Gnj1sIMU26cqErpIE8GwkdkZ1O9XgvtAECN4xxZ-h8UVLpROHFEUPbI2AxElUShyIP70L97Bl7iHw_evpvZebZt4IAgVGfk9lbFLZdc8AbkkDQtIZXx00uWwRthCYM28yl5Ftkq6Xrm8nFtXE2_tV0sPxjcRkBodjsjyiBoRttMBj34-y_jmhkVm8_zG9uKrpRiwOmRdPzqVe9qm00HG4slKAYFskFOWjBsqEPJbviqFOXbCesAilOdtjeMfzxtNLE9hjGpt7HQiLNFj0yfQkkrYj0-g0aCVQOU-I7IgAoAxYasqD4AMMG0ajvc7xbBITI4NUbAcxomirN",
+        "width": 3000
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102206045994380123747\">Georgina Bent</a>"
+        ],
+        "photo_reference": "AcnlKN1E4kOoPuGk8-PH7vGpsTXrYvZmRSNp0WlaxSvwJYEuqfdv4nVm0qaUzHvN5S5ONuYmDu7mlA9rtjvi48LnlxI-FeZlA9H34xcrxRMBDxTnr3fLiWaCCKWR7hbJeXO22MaKyyZidjoOWgMFyKCYtUkd7xiGpSqWyGMhSbSOzLL43IhDx8mI1v-3JbWrke9tyJzBQsFhRzema1K-OBfQU9-n-6jti85590VNdJhWd8xAPeinnld8BWEYL9rAbqkz5OVYeYpeGCGFhPAq44UhuPDJkIE_7tt3Kia_syfFIU6tMpEw3ZCeyWCftxZ4-IMVSNBJAk1K-hi-zNCvMcFjMyKgdzHJsVBk7meDKAbrR8U0hURJ6cFJK5x1cL_oZnjfRrsVTsfkcEYgvzzcY-f6sCqwKS6zyWbdiegGyjqSQpa9bQ",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112256419347560418164\">jeremiah Espinal</a>"
+        ],
+        "photo_reference": "AcnlKN2tkLbgABP3rB9yXxfEkCHlgkbdoK2CLH1USnOdecsrhXr6kxR7LPV7pyY2vuMRcnPOHyXfO4JoEaJvcf13pa2lIXzhTuEx2ExpOAIYH5qrmbmA6mWPufQGfmWL8fea5_gU4Gkw569zbWa89iy_l0lvZRyk5hcXiWxU1Wncb8D7huns-gpabmP02Hf887XirDRB0U-lI4fneqrrZkIceVBR8exTA-B3sk4VTzRvKXVRMZaWcIedXYFj7LcJouJ0FnPriHTvBXW4nLxdM_1mvgYAyUPvdP5zH3n9MSwDVRc9al1fveNNwAnJlMCKgJD-8mJ73Xtkd16w-5abIA3LKlOO7A6upZcjlEW000yo9-GoYfX55IPWaTRs6BY66G-I5KM_3PM39AOjmAbjsrIiOQKgBlioGKjKKnSYrHIqQnK3-w",
+        "width": 3024
+      },
+      {
+        "height": 4800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111962103985709278168\">Zainab Alaaly</a>"
+        ],
+        "photo_reference": "AcnlKN0F7VbY9qsqJuvfLMrtlW_YxMqR4RZNXYRzudYvkRDdflvsvpMtki8K48ArKNlMrINGoNlNeoSJ1W1MZ1Ux9E2mjH71mgfY9ZGR4AvAi5N-xWl4AVcnv5hKATYal25IZBugvDaKn6iMipdhYKUtMhDkOcOp1SdHu9sMIji1kMv2JkFLFZR1YaIO4i17YKU0TqfptzYF6cXOC1zcSgyXX-zrbFF8EmyixR72sc-7LuC8nrSQuY_lr1CFmDt5Me6zRnE3pYk3hCzXNS8YgCSuEYlEy9JW4kGL3zXnozAOvWj5IOPoG_WAQUzljbmZSPS-LCtkkPHd5i66IFsGXvDMzBU4P2_nYJN6qRv7K66HtMo0_JrY-DUrNAn3oYkCKNhKA36sChk8Lp2BHeAXZTh-DHftT9M-z_sxa3-HiwjaEd9QjA",
+        "width": 3600
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107353759585634633445\">Iqbal Nathani</a>"
+        ],
+        "photo_reference": "AcnlKN2a55xIsu0U-JPD5A80xCdyYgICenphukoQ5VfVjG715xRuyIxltUK1PlAn80USx671t83Uo0SKjdtkrKqOxXxO31wzw8w9oc2_c7C8JMu0N-Mvbj9XtB5lneakeOxhoJDb978NwGs_tO9JpkWK-2ib8QscBJS-fzd62V8nlKkppKyX9f79Ik9YYHoLzJkOlHh5pkJiXwGBREm25AOK2EeTdRhjVUia01gaApFlcEoamFZonRMvttv-yLk0uatN_ab2RFkGYrsVSc71M-QJCV3xSHQCCKK58yZVRkYUMuit4ks7_D477dE2eJZtEte2WllQFp8BjMt40RHw_Sk_U3nWNtFCHeHA4o90ere1uBnBMPOQsQQnkcbL2eNSL5Q97xllxFC9vBZYG92SZMnT8woWT8PYjUguXzom_hMW17E4QoxVm18dSmekQP0MNA",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107821815236197059478\">sinan erel</a>"
+        ],
+        "photo_reference": "AcnlKN0NsJM2kWeS42AEQNzhSTVFWp740imwpdUKKdX-j8yBBR9ZzIhOhWK82MsJAYiE82Pp7Gv9rCbZLHCN2AxmGcyuZVFtGj8Mgdr-wgMxk3BST2_wNSNqfE7dA-vz2B4kq5Pfqn1OGVFQ7mYNExmG2V2UOjxGeTTEpRvJZ-92pHuCGJPfS2D80aMHM-9Edsg-POGsDs0ojuNCO7co03jOYBlSxgTIl2QbMpXMxCnmb_ZlucS_qZyMRvd9mvmakZVUl_Vc9Z0fYxymAISSviISf48CYJG6536VkA19cUATWvedtmGVTethyoJzDJKamd-ExRB9_Wr6R_5edCN9oxC-DnS73CdTVOANcT9E_KIdJTvzygUW4XIf4TLfP6hYeg8RAKFSMR_1ElOllZtPdYHmeeLOVwEuyVgAeUz7_mKY7efzIA",
+        "width": 4000
+      },
+      {
+        "height": 1504,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115323735462497785514\">Chuck E. Cheese</a>"
+        ],
+        "photo_reference": "AcnlKN1vW-BVNBl0zjfR3lDm8N9uPo-2NBSYdReXD8xDpQB9DeT1YIdkHDlLpGHjZZ5J6ulVUgwn8uCOaJzthRlTArAodQnMF5zvs24-RnyxsOORQSAxhTyAfA5ScoZs6kqZba-LkcSDucdE-VLpLy2qMcVl__TIgllsnExhQGzPeli2bjlWMCJJzwssSahbRn6Va2tWLzE3GMj7TQbJjGtpI22daGSRgQRb1Mvze22M_T-ykmcSBLg7_Gu-DqDMNuhtGkm54gDBdQSXtue7rFGKN6Gf4aTJPyIeW3iyUEk-pj-mpA",
+        "width": 1504
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112313761901549834770\">Camilo Cruz Barahona</a>"
+        ],
+        "photo_reference": "AcnlKN0Ku824GKIa6frXhOoNgmks3p7RUvKP55Nkl2e0DrK0xHLW0JmDk3lSf7eFXYx0R80eBwb_mhgB2UXaV9VV-2TyOuNRtpXAjB6W7unID8sPjShcT-UPYUssx_VJJcpEc6DATm3Y1fRnkz6LOqXOXks3p1a2GE1zAaZhwK3HrXasCdnztntDutK8pwNfamBfxVlyJV8C_L3BowS1fGKvDju5Z7BMbBSznKJvMyPfKzrnJn65Sh3lMwNT3VwY_77MyTcrJOTbaim14Lw2fulT--LqYnn6wkhybUzdKLwedLr2sXYVF-wzvYS_GfeuyabVUH5DrgqKdJmKWgs_QVRPelmQrfcU2wEyyw-c9fkRng0bg45vyj2Fh1d1oKRKHj1wC7aSqXM8_VXsiuKyOC8ikHp9b_W0kBMEdvbMrPHhlBvdqLlA",
+        "width": 3120
+      }
+    ],
+    "plus_code": {
+      "compound_code": "Q33P+66 Long Island City, Queens, NY, USA",
+      "global_code": "87G8Q33P+66"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "Iqbal Nathani",
+        "author_url": "https://www.google.com/maps/contrib/107353759585634633445/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCJFzwExcfbWsu1e5t4UocEfaUKoJed8HGZkkRDcVTtMydnQ=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 3,
+        "relative_time_description": "6 months ago",
+        "text": "Took my kids to the Chuck\u202fE.\u202fCheese near Astoria (in Long Island City) for a birthday outing. The kids had a blast playing arcade games and collecting tickets\u2014it\u2019s definitely designed with young children in mind. The pizza and wings were just okay\u2014not gourmet but acceptable.\nHowever, the noisiness and smell near the entry and play areas were distracting, and several game machines were out of order. It took a while for our food order to arrive, and the staff seemed overwhelmed. For the price, it felt a bit underwhelming.\nGreat for energetic kids who want carnival-style fun, but be prepared for a chaotic environment and spotty service",
+        "time": 1753368240,
+        "translated": false
+      },
+      {
+        "author_name": "Slimm",
+        "author_url": "https://www.google.com/maps/contrib/116471485278647338462/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVgV_Xwv6vEHeiXAM-JyzwmwT5QuFaQ2B5AN_F0zZEhTnw2vA98=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "It was like any other Chuck E cheese, it was just smaller than the one I typically take my daughter to. They were cleaner than most I've been to though, I'll give them that. The young lady with the Blonde bust down was also very pleasant, along with a cook who assisted me with my order when my ticker didn't go off.",
+        "time": 1762303060,
+        "translated": false
+      },
+      {
+        "author_name": "115Athena",
+        "author_url": "https://www.google.com/maps/contrib/103014398517493661853/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3T79q9dEHZsapMHJIbARE6nROaUW51nnsjJ-ZV-9WEA-ZGPyV=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "My grandson loves Chuck E Cheese and I get to sit and relax and don\u2019t have to worry about him.  The manager James is like his guardian angel",
+        "time": 1766863747,
+        "translated": false
+      },
+      {
+        "author_name": "Carmela Olaechea",
+        "author_url": "https://www.google.com/maps/contrib/109526398508258782431/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIRd6EBlfS6vfQA4XQ5CPYulOmTK6zZH5VYApXNIW4-memXYwukg=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "4 weeks ago",
+        "text": "What's the point of a jump zone if you can't use in the mornings.  Parents with toddlers look for places where kids can jump/run but you guys never open the jump zone only till school age kids come out. But its not I ideal for 2-3 year old to be jumping with 8 year old. If a big kid lands on a little one accidentally they will have injuries.\n\nUpdating my review. Yes,it will be ideal to have open time for younger kids or even separated trampoline section. With that said I have no complaints with the staff. They are so patient with kids and do their work with a smile. That counts alot.",
+        "time": 1767991666,
+        "translated": false
+      },
+      {
+        "author_name": "Vanessa Pina",
+        "author_url": "https://www.google.com/maps/contrib/117325287878264630715/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKGZMME0r0ClyRx_-INrTxWH3JJhvbe22Wh9gyNWNvKv0bPoQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Great place to celebrate your child's birthday, the kids have so much fun and you barely see them because they are out playing and enjoying their time. I would recommend it, the pizza is amazing and so fresh. Do order extra pizza before anything because you will finish the ones from the package and because it is freshly made takes time to come out. I will be hosting other parties here for my kids.  Great hostes!",
+        "time": 1762458733,
+        "translated": false
+      }
+    ],
+    "types": [
+      "establishment",
+      "food",
+      "meal_delivery",
+      "meal_takeaway",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "user_ratings_total": 1655,
+    "vicinity": "34-19 48th St, Long Island City",
+    "website": "https://www.chuckecheese.com/long-island-city-ny",
+    "photo_urls": [
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN26JwFE96zgGAm4KnUw-lBAQws5CsCcDtpNQKHX3SzkVT6XnwHhafBm-PFOAdBSgv1aOTsFuqGhX9OhZ8nWvpAuw7-Ty6WX7efUG4SWEfZZ9jZZwBJhxr3GNQcIBdpfVezyNk1wR_NPDCUVBHmsMENTedXNHALIcKLwH_Q8EvUKVaUigl3cDjJU7_pbUwaCIUg2aaHSWdTdxVdLd7eeVDPEa2ZFwpVL-WuUZ-9jgNS9NrrGGSCdTatrxznTq7ho2xJIjelIrZBgEJSHnKz-gRdx6TYta7BF9qn8QCBsfAbr3w&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN1nY6Fa7kfHxhBi4Wiukz3LJ_bxw-ObXq6rRxff-w50Efes-wvpGv1Gep4jp2DOSSyDJ8hcUautoa4YN95I1xisdSFHB-0GNAUfjZ44iED2UgCz5QI5Mu3zpoujsL_T3236jv0BVNftzBc_gu9M-SrwL7kZ-SGFI_e3rOEfJqIE3tT0N6k0EE3AE8DFRtYV-CsjyCiMjZglHXsFy-5ucbp_S34_jbtOWjUFz2rjSA8rdRK0LdW0INL4gyEDSZtrhWWeorqzZCU3DKf15IN9w0xD1u4-9vLuYdkkmC6FGhAt0QiGNXdYOqxCLc0YPE_2j41g3J0hcEJGH2it5yaj6a6zdwjpUPrIvSghIAA_pwTisxd6riwQZouExh87a_0IG0tWYywgRQ1HnxarCTUDq-sC9V-LeahE4cJuZHyVhqZNhii-8-W4T5kqfyxFUw&key=",
+      "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AcnlKN2qx8E74L0Bvjs3lxN1nLxB7bf3QEuWUNAUUxRWAJ81SPbsXt_5txVNo0FyBioOFJTFT5YDi5AcBDKLWISsmXr4Qf2LtZrARYbtCYVyY5mX8VoIN4Gnj1sIMU26cqErpIE8GwkdkZ1O9XgvtAECN4xxZ-h8UVLpROHFEUPbI2AxElUShyIP70L97Bl7iHw_evpvZebZt4IAgVGfk9lbFLZdc8AbkkDQtIZXx00uWwRthCYM28yl5Ftkq6Xrm8nFtXE2_tV0sPxjcRkBodjsjyiBoRttMBj34-y_jmhkVm8_zG9uKrpRiwOmRdPzqVe9qm00HG4slKAYFskFOWjBsqEPJbviqFOXbCesAilOdtjeMfzxtNLE9hjGpt7HQiLNFj0yfQkkrYj0-g0aCVQOU-I7IgAoAxYasqD4AMMG0ajvc7xbBITI4NUbAcxomirN&key="
+    ]
+  }
+]
